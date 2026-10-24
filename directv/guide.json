@@ -1,0 +1,605 @@
+{
+  "diagnostics": {
+    "counts": {
+      "duplicatesMerged": 0,
+      "listed": 19,
+      "outsideWindow": 0,
+      "received": 25,
+      "skipped": 6
+    },
+    "skipped": [
+      {
+        "detail": "Streaming service, not a DIRECTV channel",
+        "id": "sample-d0-soccer-everton-liverpool",
+        "league": "Premier League",
+        "networks": [
+          {
+            "name": "Peacock",
+            "reason": "streaming-only"
+          }
+        ],
+        "reason": "streaming-only",
+        "startTime": "2026-10-17T14:00:00Z",
+        "title": "Liverpool vs. Everton"
+      },
+      {
+        "detail": "Network is in a package the pub does not subscribe to",
+        "id": "sample-d0-ncaaf-olemissrebel-lsutigers",
+        "league": "NCAAF",
+        "networks": [
+          {
+            "name": "SEC Network",
+            "reason": "package-not-subscribed"
+          }
+        ],
+        "reason": "package-not-subscribed",
+        "startTime": "2026-10-17T16:00:00Z",
+        "title": "Ole Miss Rebels at LSU Tigers"
+      },
+      {
+        "detail": "Streaming service, not a DIRECTV channel",
+        "id": "sample-d0-nhl-bostonbruins-torontomaple",
+        "league": "NHL",
+        "networks": [
+          {
+            "name": "ESPN+",
+            "reason": "streaming-only"
+          },
+          {
+            "name": "Sportsnet",
+            "reason": "unknown-network"
+          }
+        ],
+        "reason": "streaming-only",
+        "startTime": "2026-10-17T23:00:00Z",
+        "title": "Boston Bruins at Toronto Maple Leafs"
+      },
+      {
+        "detail": "Postponed",
+        "id": "sample-d0-soccer-atlantaunite-charlottefc",
+        "league": "MLS",
+        "networks": [],
+        "reason": "postponed",
+        "startTime": "2026-10-17T23:30:00Z",
+        "title": "Charlotte FC vs. Atlanta United"
+      },
+      {
+        "detail": "Streaming service, not a DIRECTV channel",
+        "id": "sample-d0-combat-ufcfightnigh",
+        "league": "UFC",
+        "networks": [
+          {
+            "name": "ESPN+",
+            "reason": "streaming-only"
+          }
+        ],
+        "reason": "streaming-only",
+        "startTime": "2026-10-18T02:00:00Z",
+        "title": "UFC Fight Night: Main Card"
+      },
+      {
+        "detail": "NFL Sunday Ticket game: no confirmed channel for this game",
+        "id": "sample-d1-nfl-buffalobills-newyorkjets",
+        "league": "NFL",
+        "networks": [
+          {
+            "name": "CBS",
+            "reason": "regional-unconfirmed"
+          }
+        ],
+        "reason": "sunday-ticket-unassigned",
+        "startTime": "2026-10-18T17:00:00Z",
+        "title": "Buffalo Bills at New York Jets"
+      }
+    ],
+    "sundayTicket": "NFL SUNDAY TICKET for Business (channels 9552-9567): subscribed yes, not yet confirmed on the account. Per-game channels inside the range are not published in any approved feed; list a confirmed game with a show exception.",
+    "unmappedNetworks": [
+      "Sportsnet"
+    ]
+  },
+  "generatedAt": "2026-10-17T16:00:00Z",
+  "isSample": true,
+  "kind": "directv-guide",
+  "profile": {
+    "id": "demo",
+    "market": "Raleigh-Durham, NC (demo)",
+    "marketVerified": false,
+    "packages": [
+      {
+        "id": "base",
+        "name": "Demo business package",
+        "subscribed": "yes",
+        "verified": true
+      },
+      {
+        "id": "sec-addon",
+        "name": "SEC add-on (demo: not subscribed)",
+        "subscribed": "no",
+        "verified": true
+      },
+      {
+        "id": "nfl-sunday-ticket",
+        "name": "NFL SUNDAY TICKET for Business",
+        "subscribed": "yes",
+        "verified": false
+      }
+    ],
+    "status": "demo",
+    "sundayTicketRange": "9552-9567",
+    "unverifiedChannels": [
+      "SEC Network"
+    ],
+    "venue": "The Cary Pub",
+    "verifiedChannels": 19,
+    "zipVerified": false
+  },
+  "programs": [
+    {
+      "away": "Chelsea",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "USA Network",
+          "number": "242",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T13:30:00Z",
+      "home": "Arsenal",
+      "id": "sample-d0-soccer-chelsea-arsenal",
+      "league": "Premier League",
+      "note": null,
+      "sport": "soccer",
+      "startTime": "2026-10-17T11:30:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Arsenal vs. Chelsea"
+    },
+    {
+      "away": null,
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "Tennis Channel",
+          "number": "217",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T18:00:00Z",
+      "home": null,
+      "id": "sample-d0-tennis-atptoursemif",
+      "league": "ATP Tour",
+      "note": null,
+      "sport": "tennis",
+      "startTime": "2026-10-17T15:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "ATP Tour: Semifinals"
+    },
+    {
+      "away": "Clemson Tigers",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "ACC Network",
+          "number": "612",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T19:30:00Z",
+      "home": "North Carolina Tar Heels",
+      "id": "sample-d0-ncaaf-clemsontiger-northcarolin",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-17T16:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Clemson Tigers at North Carolina Tar Heels"
+    },
+    {
+      "away": "Iowa State Cyclones",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "ESPN2",
+          "number": "209",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T19:30:00Z",
+      "home": "Kansas State Wildcats",
+      "id": "sample-d0-ncaaf-iowastatecyc-kansasstatew",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-17T16:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Iowa State Cyclones at Kansas State Wildcats"
+    },
+    {
+      "away": "Michigan Wolverines",
+      "channels": [
+        {
+          "callSign": "WRAZ",
+          "kind": "local",
+          "network": "FOX",
+          "number": "50",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T19:30:00Z",
+      "home": "Penn State Nittany Lions",
+      "id": "sample-d0-ncaaf-michiganwolv-pennstatenit",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-17T16:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Michigan Wolverines at Penn State Nittany Lions"
+    },
+    {
+      "away": null,
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "Golf Channel",
+          "number": "218",
+          "range": null
+        }
+      ],
+      "endEstimated": false,
+      "endTime": "2026-10-17T22:00:00Z",
+      "home": null,
+      "id": "sample-d0-golf-pgatourthird",
+      "league": "PGA TOUR",
+      "note": null,
+      "sport": "golf",
+      "startTime": "2026-10-17T17:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "PGA TOUR: Third Round"
+    },
+    {
+      "away": null,
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "USA Network",
+          "number": "242",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T22:00:00Z",
+      "home": null,
+      "id": "sample-d0-racing-nascarcupser",
+      "league": "NASCAR",
+      "note": null,
+      "sport": "racing",
+      "startTime": "2026-10-17T18:30:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "NASCAR Cup Series: Playoff Race"
+    },
+    {
+      "away": "Georgia Bulldogs",
+      "channels": [
+        {
+          "callSign": "WNCN",
+          "kind": "local",
+          "network": "CBS",
+          "number": "17",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T23:00:00Z",
+      "home": "Florida Gators",
+      "id": "sample-d0-ncaaf-georgiabulld-floridagator",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-17T19:30:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Georgia Bulldogs vs. Florida Gators"
+    },
+    {
+      "away": "NC State Wolfpack",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "ESPN",
+          "number": "206",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T23:00:00Z",
+      "home": "Duke Blue Devils",
+      "id": "sample-d0-ncaaf-ncstatewolfp-dukebluedevi",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-17T19:30:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "NC State Wolfpack at Duke Blue Devils"
+    },
+    {
+      "away": "Wake Forest Demon Deacons",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "CBS Sports Network",
+          "number": "221",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T23:30:00Z",
+      "home": "Virginia Tech Hokies",
+      "id": "sample-d0-ncaaf-wakeforestde-virginiatech",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-17T20:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Wake Forest Demon Deacons at Virginia Tech Hokies"
+    },
+    {
+      "away": "New York Yankees",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "FS1",
+          "number": "219",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-17T23:08:00Z",
+      "home": "Cleveland Guardians",
+      "id": "sample-d0-mlb-newyorkyanke-clevelandgua",
+      "league": "MLB",
+      "note": "ALCS Game 5",
+      "sport": "mlb",
+      "startTime": "2026-10-17T20:08:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "New York Yankees at Cleveland Guardians"
+    },
+    {
+      "away": "Washington Capitals",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "rsn",
+          "network": "FanDuel Sports Network South",
+          "number": "646",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-18T01:45:00Z",
+      "home": "Carolina Hurricanes",
+      "id": "sample-d0-nhl-washingtonca-carolinahurr",
+      "league": "NHL",
+      "note": null,
+      "sport": "nhl",
+      "startTime": "2026-10-17T23:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Washington Capitals at Carolina Hurricanes"
+    },
+    {
+      "away": "Alabama Crimson Tide",
+      "channels": [
+        {
+          "callSign": "WTVD",
+          "kind": "local",
+          "network": "ABC",
+          "number": "11",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-18T03:00:00Z",
+      "home": "Tennessee Volunteers",
+      "id": "sample-d0-ncaaf-alabamacrims-tennesseevol",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-17T23:30:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Alabama Crimson Tide at Tennessee Volunteers"
+    },
+    {
+      "away": "Mexico",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "TNT",
+          "number": "245",
+          "range": null
+        },
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "truTV",
+          "number": "246",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-18T02:00:00Z",
+      "home": "USA",
+      "id": "sample-d0-soccer-mexico-usa",
+      "league": "International Friendly",
+      "note": null,
+      "sport": "soccer",
+      "startTime": "2026-10-18T00:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "USA vs. Mexico"
+    },
+    {
+      "away": "Los Angeles Dodgers",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "TBS",
+          "number": "247",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-18T03:08:00Z",
+      "home": "Philadelphia Phillies",
+      "id": "sample-d0-mlb-losangelesdo-philadelphia",
+      "league": "MLB",
+      "note": "NLCS Game 6",
+      "sport": "mlb",
+      "startTime": "2026-10-18T00:08:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Los Angeles Dodgers at Philadelphia Phillies"
+    },
+    {
+      "away": "USC Trojans",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "Big Ten Network",
+          "number": "610",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-18T06:00:00Z",
+      "home": "Washington Huskies",
+      "id": "sample-d0-ncaaf-usctrojans-washingtonhu",
+      "league": "NCAAF",
+      "note": null,
+      "sport": "ncaaf",
+      "startTime": "2026-10-18T02:30:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "USC Trojans at Washington Huskies"
+    },
+    {
+      "away": "Jacksonville Jaguars",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "national",
+          "network": "NFL Network",
+          "number": "212",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-18T16:45:00Z",
+      "home": "Los Angeles Rams",
+      "id": "sample-d1-nfl-jacksonville-losangelesra",
+      "league": "NFL",
+      "note": "London",
+      "sport": "nfl",
+      "startTime": "2026-10-18T13:30:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Jacksonville Jaguars at Los Angeles Rams"
+    },
+    {
+      "away": "Atlanta Falcons",
+      "channels": [
+        {
+          "callSign": null,
+          "kind": "exception",
+          "network": "FOX",
+          "number": "50",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-18T20:15:00Z",
+      "home": "Carolina Panthers",
+      "id": "sample-d1-nfl-atlantafalco-carolinapant",
+      "league": "NFL",
+      "note": null,
+      "sport": "nfl",
+      "startTime": "2026-10-18T17:00:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Atlanta Falcons at Carolina Panthers"
+    },
+    {
+      "away": "Kansas City Chiefs",
+      "channels": [
+        {
+          "callSign": "WRAL",
+          "kind": "local",
+          "network": "NBC",
+          "number": "5",
+          "range": null
+        }
+      ],
+      "endEstimated": true,
+      "endTime": "2026-10-19T03:35:00Z",
+      "home": "Philadelphia Eagles",
+      "id": "sample-d1-nfl-kansascitych-philadelphia",
+      "league": "NFL",
+      "note": null,
+      "sport": "nfl",
+      "startTime": "2026-10-19T00:20:00Z",
+      "status": "scheduled",
+      "statusDetail": null,
+      "title": "Kansas City Chiefs at Philadelphia Eagles"
+    }
+  ],
+  "provider": {
+    "lastAttemptAt": "2026-10-17T16:00:00Z",
+    "lastSuccessAt": "2026-10-17T16:00:00Z",
+    "message": null,
+    "provider": "sample",
+    "state": "ok"
+  },
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "events": 25,
+      "id": "sample",
+      "isSample": true,
+      "message": null,
+      "name": "Demo events (sample data)",
+      "state": "ok"
+    }
+  ],
+  "timezone": "America/New_York",
+  "window": {
+    "end": "2026-10-19T04:00:00Z",
+    "start": "2026-10-17T04:00:00Z"
+  }
+}

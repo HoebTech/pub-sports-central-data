@@ -1,0 +1,1892 @@
+{
+  "generatedAt": "2026-10-22T01:40:00Z",
+  "isSample": true,
+  "league": {
+    "key": "nhl",
+    "name": "National Hockey League",
+    "shortName": "NHL"
+  },
+  "playoffs": null,
+  "provider": {
+    "lastAttemptAt": "2026-10-22T01:40:00Z",
+    "lastSuccessAt": "2026-10-22T01:40:00Z",
+    "message": "Sample data for development and layout testing — not live results",
+    "provider": "sample",
+    "state": "ok"
+  },
+  "rankings": null,
+  "schedule": {
+    "games": [
+      {
+        "away": {
+          "rank": null,
+          "record": "2-5-2",
+          "score": 3,
+          "teamId": "nhl-bos"
+        },
+        "broadcasts": [
+          "ESPN",
+          "Sportsnet"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-4-0",
+          "score": 4,
+          "teamId": "nhl-tor"
+        },
+        "id": "nhl-sample-20261020-bos-tor",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-20T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Scotiabank Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "6-0-2",
+          "score": 4,
+          "teamId": "nhl-mtl"
+        },
+        "broadcasts": [
+          "ESPN+",
+          "TVA Sports"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-4-0",
+          "score": 2,
+          "teamId": "nhl-tbl"
+        },
+        "id": "nhl-sample-20261020-mtl-tbl",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-20T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Benchmark International Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "7-2-0",
+          "score": 2,
+          "teamId": "nhl-nyr"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-3-1",
+          "score": 3,
+          "teamId": "nhl-phi"
+        },
+        "id": "nhl-sample-20261020-nyr-phi",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-20T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Xfinity Mobile Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "6-2-0",
+          "score": 4,
+          "teamId": "nhl-pit"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "5-0-4",
+          "score": 3,
+          "teamId": "nhl-det"
+        },
+        "id": "nhl-sample-20261020-pit-det",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-20T23:30:00Z",
+        "status": "final",
+        "statusDetail": "Final/SO",
+        "timeTbd": false,
+        "venue": "Little Caesars Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "5-3-0",
+          "score": 1,
+          "teamId": "nhl-chi"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-5-0",
+          "score": 0,
+          "teamId": "nhl-stl"
+        },
+        "id": "nhl-sample-20261021-chi-stl",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-21T00:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Enterprise Center"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-4-0",
+          "score": 4,
+          "teamId": "nhl-wpg"
+        },
+        "broadcasts": [
+          "ESPN+",
+          "Sportsnet"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-2-2",
+          "score": 3,
+          "teamId": "nhl-nsh"
+        },
+        "id": "nhl-sample-20261021-wpg-nsh",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-21T00:00:00Z",
+        "status": "final",
+        "statusDetail": "Final/OT",
+        "timeTbd": false,
+        "venue": "Bridgestone Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "5-3-0",
+          "score": 0,
+          "teamId": "nhl-col"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-4-0",
+          "score": 1,
+          "teamId": "nhl-uta"
+        },
+        "id": "nhl-sample-20261021-col-uta",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-21T01:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Delta Center"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "3-5-1",
+          "score": 4,
+          "teamId": "nhl-vgk"
+        },
+        "broadcasts": [
+          "ESPN"
+        ],
+        "home": {
+          "rank": null,
+          "record": "5-3-1",
+          "score": 5,
+          "teamId": "nhl-lak"
+        },
+        "id": "nhl-sample-20261021-vgk-lak",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-21T02:30:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Crypto.com Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "7-1-0",
+          "score": 3,
+          "teamId": "nhl-fla"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "5-3-0",
+          "score": 6,
+          "teamId": "nhl-buf"
+        },
+        "id": "nhl-sample-20261021-fla-buf",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-21T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "KeyBank Center"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "3-3-2",
+          "score": 2,
+          "teamId": "nhl-njd"
+        },
+        "broadcasts": [
+          "TNT"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-2-1",
+          "score": 1,
+          "teamId": "nhl-car"
+        },
+        "id": "nhl-sample-20261021-njd-car",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-21T23:00:00Z",
+        "status": "in_progress",
+        "statusDetail": "3rd 4:20",
+        "timeTbd": false,
+        "venue": "Lenovo Center"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "3-5-0",
+          "score": 4,
+          "teamId": "nhl-ott"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "1-6-1",
+          "score": 0,
+          "teamId": "nhl-cbj"
+        },
+        "id": "nhl-sample-20261021-ott-cbj",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-21T23:30:00Z",
+        "status": "in_progress",
+        "statusDetail": "3rd 14:02",
+        "timeTbd": false,
+        "venue": "Nationwide Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "2-5-1",
+          "score": 1,
+          "teamId": "nhl-min"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "5-2-1",
+          "score": 3,
+          "teamId": "nhl-dal"
+        },
+        "id": "nhl-sample-20261022-min-dal",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-22T00:30:00Z",
+        "status": "in_progress",
+        "statusDetail": "2nd 10:33",
+        "timeTbd": false,
+        "venue": "American Airlines Center"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "3-5-0",
+          "score": 0,
+          "teamId": "nhl-sea"
+        },
+        "broadcasts": [
+          "ESPN+",
+          "Sportsnet"
+        ],
+        "home": {
+          "rank": null,
+          "record": "7-0-0",
+          "score": 0,
+          "teamId": "nhl-edm"
+        },
+        "id": "nhl-sample-20261022-sea-edm",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-22T01:00:00Z",
+        "status": "in_progress",
+        "statusDetail": "1st 6:15",
+        "timeTbd": false,
+        "venue": "Rogers Place"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "6-2-0",
+          "score": null,
+          "teamId": "nhl-cgy"
+        },
+        "broadcasts": [
+          "TNT",
+          "Sportsnet"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-4-0",
+          "score": null,
+          "teamId": "nhl-van"
+        },
+        "id": "nhl-sample-20261022-cgy-van",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-22T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Rogers Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "1-5-2",
+          "score": null,
+          "teamId": "nhl-sjs"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "1-4-3",
+          "score": null,
+          "teamId": "nhl-ana"
+        },
+        "id": "nhl-sample-20261022-sjs-ana",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-22T02:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Honda Center"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "6-2-0",
+          "score": null,
+          "teamId": "nhl-pit"
+        },
+        "broadcasts": [
+          "ESPN"
+        ],
+        "home": {
+          "rank": null,
+          "record": "7-2-0",
+          "score": null,
+          "teamId": "nhl-nyr"
+        },
+        "id": "nhl-sample-20261022-pit-nyr",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-22T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Madison Square Garden"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-4-0",
+          "score": null,
+          "teamId": "nhl-tbl"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "7-1-0",
+          "score": null,
+          "teamId": "nhl-fla"
+        },
+        "id": "nhl-sample-20261022-tbl-fla",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-22T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Amerant Bank Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-4-0",
+          "score": null,
+          "teamId": "nhl-tor"
+        },
+        "broadcasts": [
+          "Sportsnet",
+          "TVA Sports"
+        ],
+        "home": {
+          "rank": null,
+          "record": "6-0-2",
+          "score": null,
+          "teamId": "nhl-mtl"
+        },
+        "id": "nhl-sample-20261022-tor-mtl",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-22T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Bell Centre"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2-1",
+          "score": null,
+          "teamId": "nhl-car"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "5-3-0",
+          "score": null,
+          "teamId": "nhl-chi"
+        },
+        "id": "nhl-sample-20261023-car-chi",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-23T00:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "United Center"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "5-2-1",
+          "score": null,
+          "teamId": "nhl-dal"
+        },
+        "broadcasts": [
+          "ESPN"
+        ],
+        "home": {
+          "rank": null,
+          "record": "5-3-0",
+          "score": null,
+          "teamId": "nhl-col"
+        },
+        "id": "nhl-sample-20261023-dal-col",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-23T01:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Ball Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "5-3-1",
+          "score": null,
+          "teamId": "nhl-lak"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-5-0",
+          "score": null,
+          "teamId": "nhl-sea"
+        },
+        "id": "nhl-sample-20261023-lak-sea",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-23T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Climate Pledge Arena"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-4-0",
+          "score": null,
+          "teamId": "nhl-uta"
+        },
+        "broadcasts": [
+          "ESPN+"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-5-1",
+          "score": null,
+          "teamId": "nhl-vgk"
+        },
+        "id": "nhl-sample-20261023-uta-vgk",
+        "label": null,
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-23T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "T-Mobile Arena"
+      }
+    ],
+    "label": "Oct 20 - Oct 22",
+    "rangeEnd": "2026-10-23T03:59:59Z",
+    "rangeStart": "2026-10-20T04:00:00Z",
+    "updatedAt": "2026-10-22T01:40:00Z"
+  },
+  "schemaVersion": 1,
+  "season": "2026-27",
+  "sport": "nhl",
+  "standings": {
+    "groups": [
+      {
+        "id": "atlantic",
+        "name": "Atlantic",
+        "parent": "Eastern",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": 0,
+            "points": 14,
+            "pointsAgainst": 20,
+            "pointsFor": 35,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "4-1-0",
+              "gamesPlayed": 8,
+              "goalDifferential": 15,
+              "homeRecord": "3-0-0",
+              "last10": "7-1-0",
+              "pointsPct": 0.875,
+              "regulationWins": 6
+            },
+            "streak": "L1",
+            "teamId": "nhl-fla",
+            "ties": null,
+            "winPct": null,
+            "wins": 7
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": 2,
+            "points": 14,
+            "pointsAgainst": 23,
+            "pointsFor": 30,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-0-1",
+              "gamesPlayed": 8,
+              "goalDifferential": 7,
+              "homeRecord": "5-0-1",
+              "last10": "6-0-2",
+              "pointsPct": 0.875,
+              "regulationWins": 5
+            },
+            "streak": "W1",
+            "teamId": "nhl-mtl",
+            "ties": null,
+            "winPct": null,
+            "wins": 6
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": 4,
+            "points": 14,
+            "pointsAgainst": 23,
+            "pointsFor": 28,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "3-0-3",
+              "gamesPlayed": 9,
+              "goalDifferential": 5,
+              "homeRecord": "2-0-1",
+              "last10": "5-0-4",
+              "pointsPct": 0.778,
+              "regulationWins": 4
+            },
+            "streak": "OT1",
+            "teamId": "nhl-det",
+            "ties": null,
+            "winPct": null,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": 0,
+            "points": 10,
+            "pointsAgainst": 19,
+            "pointsFor": 29,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "4-1-0",
+              "gamesPlayed": 8,
+              "goalDifferential": 10,
+              "homeRecord": "1-2-0",
+              "last10": "5-3-0",
+              "pointsPct": 0.625,
+              "regulationWins": 5
+            },
+            "streak": "W2",
+            "teamId": "nhl-buf",
+            "ties": null,
+            "winPct": null,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": 0,
+            "points": 8,
+            "pointsAgainst": 24,
+            "pointsFor": 22,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "1-1-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -2,
+              "homeRecord": "3-3-0",
+              "last10": "4-4-0",
+              "pointsPct": 0.5,
+              "regulationWins": 3
+            },
+            "streak": "L2",
+            "teamId": "nhl-tbl",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": 0,
+            "points": 8,
+            "pointsAgainst": 26,
+            "pointsFor": 22,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "2-0-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -4,
+              "homeRecord": "2-4-0",
+              "last10": "4-4-0",
+              "pointsPct": 0.5,
+              "regulationWins": 3
+            },
+            "streak": "W3",
+            "teamId": "nhl-tor",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": 0,
+            "points": 6,
+            "pointsAgainst": 25,
+            "pointsFor": 20,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "0-2-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -5,
+              "homeRecord": "3-3-0",
+              "last10": "3-5-0",
+              "pointsPct": 0.375,
+              "regulationWins": 0
+            },
+            "streak": "L2",
+            "teamId": "nhl-ott",
+            "ties": null,
+            "winPct": null,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": 2,
+            "points": 6,
+            "pointsAgainst": 27,
+            "pointsFor": 20,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "1-3-2",
+              "gamesPlayed": 9,
+              "goalDifferential": -7,
+              "homeRecord": "1-2-0",
+              "last10": "2-5-2",
+              "pointsPct": 0.333,
+              "regulationWins": 0
+            },
+            "streak": "L1",
+            "teamId": "nhl-bos",
+            "ties": null,
+            "winPct": null,
+            "wins": 2
+          }
+        ]
+      },
+      {
+        "id": "metropolitan",
+        "name": "Metropolitan",
+        "parent": "Eastern",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": 0,
+            "points": 14,
+            "pointsAgainst": 23,
+            "pointsFor": 31,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "2-2-0",
+              "gamesPlayed": 9,
+              "goalDifferential": 8,
+              "homeRecord": "5-0-0",
+              "last10": "7-2-0",
+              "pointsPct": 0.778,
+              "regulationWins": 6
+            },
+            "streak": "L1",
+            "teamId": "nhl-nyr",
+            "ties": null,
+            "winPct": null,
+            "wins": 7
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": 0,
+            "points": 12,
+            "pointsAgainst": 25,
+            "pointsFor": 29,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "4-2-0",
+              "gamesPlayed": 8,
+              "goalDifferential": 4,
+              "homeRecord": "2-0-0",
+              "last10": "6-2-0",
+              "pointsPct": 0.75,
+              "regulationWins": 4
+            },
+            "streak": "W1",
+            "teamId": "nhl-pit",
+            "ties": null,
+            "winPct": null,
+            "wins": 6
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": 1,
+            "points": 9,
+            "pointsAgainst": 21,
+            "pointsFor": 26,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "3-1-0",
+              "gamesPlayed": 7,
+              "goalDifferential": 5,
+              "homeRecord": "1-1-1",
+              "last10": "4-2-1",
+              "pointsPct": 0.643,
+              "regulationWins": 4
+            },
+            "streak": "W2",
+            "teamId": "nhl-car",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": 1,
+            "points": 9,
+            "pointsAgainst": 24,
+            "pointsFor": 21,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "2-1-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -3,
+              "homeRecord": "2-2-1",
+              "last10": "4-3-1",
+              "pointsPct": 0.562,
+              "regulationWins": 4
+            },
+            "streak": "W2",
+            "teamId": "nhl-phi",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": 3,
+            "points": 9,
+            "pointsAgainst": 25,
+            "pointsFor": 24,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "1-0-2",
+              "gamesPlayed": 8,
+              "goalDifferential": -1,
+              "homeRecord": "2-2-1",
+              "last10": "3-2-3",
+              "pointsPct": 0.562,
+              "regulationWins": 2
+            },
+            "streak": "OT1",
+            "teamId": "nhl-wsh",
+            "ties": null,
+            "winPct": null,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": 2,
+            "points": 8,
+            "pointsAgainst": 22,
+            "pointsFor": 19,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "1-1-2",
+              "gamesPlayed": 8,
+              "goalDifferential": -3,
+              "homeRecord": "2-2-0",
+              "last10": "3-3-2",
+              "pointsPct": 0.5,
+              "regulationWins": 2
+            },
+            "streak": "W1",
+            "teamId": "nhl-njd",
+            "ties": null,
+            "winPct": null,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": 1,
+            "points": 7,
+            "pointsAgainst": 24,
+            "pointsFor": 22,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "2-3-0",
+              "gamesPlayed": 7,
+              "goalDifferential": -2,
+              "homeRecord": "1-0-1",
+              "last10": "3-3-1",
+              "pointsPct": 0.5,
+              "regulationWins": 2
+            },
+            "streak": "W1",
+            "teamId": "nhl-nyi",
+            "ties": null,
+            "winPct": null,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 6,
+            "otLosses": 1,
+            "points": 3,
+            "pointsAgainst": 32,
+            "pointsFor": 20,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "1-3-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -12,
+              "homeRecord": "0-3-1",
+              "last10": "1-6-1",
+              "pointsPct": 0.188,
+              "regulationWins": 1
+            },
+            "streak": "OT1",
+            "teamId": "nhl-cbj",
+            "ties": null,
+            "winPct": null,
+            "wins": 1
+          }
+        ]
+      },
+      {
+        "id": "central",
+        "name": "Central",
+        "parent": "Western",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": 1,
+            "points": 11,
+            "pointsAgainst": 24,
+            "pointsFor": 28,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "4-2-1",
+              "gamesPlayed": 8,
+              "goalDifferential": 4,
+              "homeRecord": "1-0-0",
+              "last10": "5-2-1",
+              "pointsPct": 0.688,
+              "regulationWins": 4
+            },
+            "streak": "L1",
+            "teamId": "nhl-dal",
+            "ties": null,
+            "winPct": null,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": 0,
+            "points": 10,
+            "pointsAgainst": 19,
+            "pointsFor": 24,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "3-3-0",
+              "gamesPlayed": 8,
+              "goalDifferential": 5,
+              "homeRecord": "2-0-0",
+              "last10": "5-3-0",
+              "pointsPct": 0.625,
+              "regulationWins": 4
+            },
+            "streak": "W1",
+            "teamId": "nhl-chi",
+            "ties": null,
+            "winPct": null,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": 0,
+            "points": 10,
+            "pointsAgainst": 23,
+            "pointsFor": 27,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "2-1-0",
+              "gamesPlayed": 8,
+              "goalDifferential": 4,
+              "homeRecord": "3-2-0",
+              "last10": "5-3-0",
+              "pointsPct": 0.625,
+              "regulationWins": 3
+            },
+            "streak": "L1",
+            "teamId": "nhl-col",
+            "ties": null,
+            "winPct": null,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": 2,
+            "points": 10,
+            "pointsAgainst": 25,
+            "pointsFor": 24,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "2-1-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -1,
+              "homeRecord": "2-1-2",
+              "last10": "4-2-2",
+              "pointsPct": 0.625,
+              "regulationWins": 3
+            },
+            "streak": "OT1",
+            "teamId": "nhl-nsh",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": 0,
+            "points": 8,
+            "pointsAgainst": 24,
+            "pointsFor": 22,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-2-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -2,
+              "homeRecord": "4-2-0",
+              "last10": "4-4-0",
+              "pointsPct": 0.5,
+              "regulationWins": 4
+            },
+            "streak": "W2",
+            "teamId": "nhl-uta",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": 0,
+            "points": 8,
+            "pointsAgainst": 29,
+            "pointsFor": 28,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "3-2-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -1,
+              "homeRecord": "1-2-0",
+              "last10": "4-4-0",
+              "pointsPct": 0.5,
+              "regulationWins": 3
+            },
+            "streak": "W2",
+            "teamId": "nhl-wpg",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": 0,
+            "points": 8,
+            "pointsAgainst": 25,
+            "pointsFor": 21,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "1-1-0",
+              "gamesPlayed": 9,
+              "goalDifferential": -4,
+              "homeRecord": "3-4-0",
+              "last10": "4-5-0",
+              "pointsPct": 0.444,
+              "regulationWins": 2
+            },
+            "streak": "L4",
+            "teamId": "nhl-stl",
+            "ties": null,
+            "winPct": null,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": 1,
+            "points": 5,
+            "pointsAgainst": 30,
+            "pointsFor": 19,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "1-2-1",
+              "gamesPlayed": 8,
+              "goalDifferential": -11,
+              "homeRecord": "1-3-0",
+              "last10": "2-5-1",
+              "pointsPct": 0.312,
+              "regulationWins": 1
+            },
+            "streak": "W1",
+            "teamId": "nhl-min",
+            "ties": null,
+            "winPct": null,
+            "wins": 2
+          }
+        ]
+      },
+      {
+        "id": "pacific",
+        "name": "Pacific",
+        "parent": "Western",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": 0,
+            "points": 14,
+            "pointsAgainst": 18,
+            "pointsFor": 31,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "3-0-0",
+              "gamesPlayed": 7,
+              "goalDifferential": 13,
+              "homeRecord": "4-0-0",
+              "last10": "7-0-0",
+              "pointsPct": 1.0,
+              "regulationWins": 7
+            },
+            "streak": "W7",
+            "teamId": "nhl-edm",
+            "ties": null,
+            "winPct": null,
+            "wins": 7
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": 0,
+            "points": 12,
+            "pointsAgainst": 20,
+            "pointsFor": 30,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "2-1-0",
+              "gamesPlayed": 8,
+              "goalDifferential": 10,
+              "homeRecord": "4-1-0",
+              "last10": "6-2-0",
+              "pointsPct": 0.75,
+              "regulationWins": 5
+            },
+            "streak": "L1",
+            "teamId": "nhl-cgy",
+            "ties": null,
+            "winPct": null,
+            "wins": 6
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": 1,
+            "points": 11,
+            "pointsAgainst": 32,
+            "pointsFor": 37,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "4-0-1",
+              "gamesPlayed": 9,
+              "goalDifferential": 5,
+              "homeRecord": "1-3-0",
+              "last10": "5-3-1",
+              "pointsPct": 0.611,
+              "regulationWins": 5
+            },
+            "streak": "W2",
+            "teamId": "nhl-lak",
+            "ties": null,
+            "winPct": null,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": 1,
+            "points": 7,
+            "pointsAgainst": 27,
+            "pointsFor": 19,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "3-3-1",
+              "gamesPlayed": 9,
+              "goalDifferential": -8,
+              "homeRecord": "0-2-0",
+              "last10": "3-5-1",
+              "pointsPct": 0.389,
+              "regulationWins": 2
+            },
+            "streak": "L2",
+            "teamId": "nhl-vgk",
+            "ties": null,
+            "winPct": null,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": 0,
+            "points": 6,
+            "pointsAgainst": 21,
+            "pointsFor": 20,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "2-3-0",
+              "gamesPlayed": 7,
+              "goalDifferential": -1,
+              "homeRecord": "1-1-0",
+              "last10": "3-4-0",
+              "pointsPct": 0.429,
+              "regulationWins": 3
+            },
+            "streak": "L4",
+            "teamId": "nhl-van",
+            "ties": null,
+            "winPct": null,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": 0,
+            "points": 6,
+            "pointsAgainst": 20,
+            "pointsFor": 13,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "1-3-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -7,
+              "homeRecord": "2-2-0",
+              "last10": "3-5-0",
+              "pointsPct": 0.375,
+              "regulationWins": 2
+            },
+            "streak": "W2",
+            "teamId": "nhl-sea",
+            "ties": null,
+            "winPct": null,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": 3,
+            "points": 5,
+            "pointsAgainst": 26,
+            "pointsFor": 18,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "0-3-0",
+              "gamesPlayed": 8,
+              "goalDifferential": -8,
+              "homeRecord": "1-1-3",
+              "last10": "1-4-3",
+              "pointsPct": 0.312,
+              "regulationWins": 1
+            },
+            "streak": "L1",
+            "teamId": "nhl-ana",
+            "ties": null,
+            "winPct": null,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": null,
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": 2,
+            "points": 4,
+            "pointsAgainst": 33,
+            "pointsFor": 20,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "0-2-2",
+              "gamesPlayed": 8,
+              "goalDifferential": -13,
+              "homeRecord": "1-3-0",
+              "last10": "1-5-2",
+              "pointsPct": 0.25,
+              "regulationWins": 1
+            },
+            "streak": "L2",
+            "teamId": "nhl-sjs",
+            "ties": null,
+            "winPct": null,
+            "wins": 1
+          }
+        ]
+      }
+    ],
+    "season": "2026-27",
+    "seasonType": "regular",
+    "updatedAt": "2026-10-22T01:40:00Z"
+  },
+  "teams": [
+    {
+      "abbreviation": "BOS",
+      "colors": {
+        "primary": "#FFB81C",
+        "secondary": "#000000"
+      },
+      "conference": "Eastern",
+      "displayName": "Boston Bruins",
+      "division": "Atlantic",
+      "id": "nhl-bos",
+      "location": "Boston",
+      "logoUrl": null,
+      "name": "Bruins"
+    },
+    {
+      "abbreviation": "BUF",
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#FFB81C"
+      },
+      "conference": "Eastern",
+      "displayName": "Buffalo Sabres",
+      "division": "Atlantic",
+      "id": "nhl-buf",
+      "location": "Buffalo",
+      "logoUrl": null,
+      "name": "Sabres"
+    },
+    {
+      "abbreviation": "DET",
+      "colors": {
+        "primary": "#CE1126",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Eastern",
+      "displayName": "Detroit Red Wings",
+      "division": "Atlantic",
+      "id": "nhl-det",
+      "location": "Detroit",
+      "logoUrl": null,
+      "name": "Red Wings"
+    },
+    {
+      "abbreviation": "FLA",
+      "colors": {
+        "primary": "#041E42",
+        "secondary": "#C8102E"
+      },
+      "conference": "Eastern",
+      "displayName": "Florida Panthers",
+      "division": "Atlantic",
+      "id": "nhl-fla",
+      "location": "Florida",
+      "logoUrl": null,
+      "name": "Panthers"
+    },
+    {
+      "abbreviation": "MTL",
+      "colors": {
+        "primary": "#AF1E2D",
+        "secondary": "#192168"
+      },
+      "conference": "Eastern",
+      "displayName": "Montréal Canadiens",
+      "division": "Atlantic",
+      "id": "nhl-mtl",
+      "location": "Montréal",
+      "logoUrl": null,
+      "name": "Canadiens"
+    },
+    {
+      "abbreviation": "OTT",
+      "colors": {
+        "primary": "#C52032",
+        "secondary": "#000000"
+      },
+      "conference": "Eastern",
+      "displayName": "Ottawa Senators",
+      "division": "Atlantic",
+      "id": "nhl-ott",
+      "location": "Ottawa",
+      "logoUrl": null,
+      "name": "Senators"
+    },
+    {
+      "abbreviation": "TBL",
+      "colors": {
+        "primary": "#002868",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Eastern",
+      "displayName": "Tampa Bay Lightning",
+      "division": "Atlantic",
+      "id": "nhl-tbl",
+      "location": "Tampa Bay",
+      "logoUrl": null,
+      "name": "Lightning"
+    },
+    {
+      "abbreviation": "TOR",
+      "colors": {
+        "primary": "#00205B",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Eastern",
+      "displayName": "Toronto Maple Leafs",
+      "division": "Atlantic",
+      "id": "nhl-tor",
+      "location": "Toronto",
+      "logoUrl": null,
+      "name": "Maple Leafs"
+    },
+    {
+      "abbreviation": "CAR",
+      "colors": {
+        "primary": "#CE1126",
+        "secondary": "#000000"
+      },
+      "conference": "Eastern",
+      "displayName": "Carolina Hurricanes",
+      "division": "Metropolitan",
+      "id": "nhl-car",
+      "location": "Carolina",
+      "logoUrl": null,
+      "name": "Hurricanes"
+    },
+    {
+      "abbreviation": "CBJ",
+      "colors": {
+        "primary": "#002654",
+        "secondary": "#CE1126"
+      },
+      "conference": "Eastern",
+      "displayName": "Columbus Blue Jackets",
+      "division": "Metropolitan",
+      "id": "nhl-cbj",
+      "location": "Columbus",
+      "logoUrl": null,
+      "name": "Blue Jackets"
+    },
+    {
+      "abbreviation": "NJD",
+      "colors": {
+        "primary": "#CE1126",
+        "secondary": "#000000"
+      },
+      "conference": "Eastern",
+      "displayName": "New Jersey Devils",
+      "division": "Metropolitan",
+      "id": "nhl-njd",
+      "location": "New Jersey",
+      "logoUrl": null,
+      "name": "Devils"
+    },
+    {
+      "abbreviation": "NYI",
+      "colors": {
+        "primary": "#00539B",
+        "secondary": "#F47D30"
+      },
+      "conference": "Eastern",
+      "displayName": "New York Islanders",
+      "division": "Metropolitan",
+      "id": "nhl-nyi",
+      "location": "New York",
+      "logoUrl": null,
+      "name": "Islanders"
+    },
+    {
+      "abbreviation": "NYR",
+      "colors": {
+        "primary": "#0038A8",
+        "secondary": "#CE1126"
+      },
+      "conference": "Eastern",
+      "displayName": "New York Rangers",
+      "division": "Metropolitan",
+      "id": "nhl-nyr",
+      "location": "New York",
+      "logoUrl": null,
+      "name": "Rangers"
+    },
+    {
+      "abbreviation": "PHI",
+      "colors": {
+        "primary": "#F74902",
+        "secondary": "#000000"
+      },
+      "conference": "Eastern",
+      "displayName": "Philadelphia Flyers",
+      "division": "Metropolitan",
+      "id": "nhl-phi",
+      "location": "Philadelphia",
+      "logoUrl": null,
+      "name": "Flyers"
+    },
+    {
+      "abbreviation": "PIT",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FCB514"
+      },
+      "conference": "Eastern",
+      "displayName": "Pittsburgh Penguins",
+      "division": "Metropolitan",
+      "id": "nhl-pit",
+      "location": "Pittsburgh",
+      "logoUrl": null,
+      "name": "Penguins"
+    },
+    {
+      "abbreviation": "WSH",
+      "colors": {
+        "primary": "#041E42",
+        "secondary": "#C8102E"
+      },
+      "conference": "Eastern",
+      "displayName": "Washington Capitals",
+      "division": "Metropolitan",
+      "id": "nhl-wsh",
+      "location": "Washington",
+      "logoUrl": null,
+      "name": "Capitals"
+    },
+    {
+      "abbreviation": "CHI",
+      "colors": {
+        "primary": "#CF0A2C",
+        "secondary": "#000000"
+      },
+      "conference": "Western",
+      "displayName": "Chicago Blackhawks",
+      "division": "Central",
+      "id": "nhl-chi",
+      "location": "Chicago",
+      "logoUrl": null,
+      "name": "Blackhawks"
+    },
+    {
+      "abbreviation": "COL",
+      "colors": {
+        "primary": "#6F263D",
+        "secondary": "#236192"
+      },
+      "conference": "Western",
+      "displayName": "Colorado Avalanche",
+      "division": "Central",
+      "id": "nhl-col",
+      "location": "Colorado",
+      "logoUrl": null,
+      "name": "Avalanche"
+    },
+    {
+      "abbreviation": "DAL",
+      "colors": {
+        "primary": "#006847",
+        "secondary": "#8F8F8C"
+      },
+      "conference": "Western",
+      "displayName": "Dallas Stars",
+      "division": "Central",
+      "id": "nhl-dal",
+      "location": "Dallas",
+      "logoUrl": null,
+      "name": "Stars"
+    },
+    {
+      "abbreviation": "MIN",
+      "colors": {
+        "primary": "#154734",
+        "secondary": "#A6192E"
+      },
+      "conference": "Western",
+      "displayName": "Minnesota Wild",
+      "division": "Central",
+      "id": "nhl-min",
+      "location": "Minnesota",
+      "logoUrl": null,
+      "name": "Wild"
+    },
+    {
+      "abbreviation": "NSH",
+      "colors": {
+        "primary": "#FFB81C",
+        "secondary": "#041E42"
+      },
+      "conference": "Western",
+      "displayName": "Nashville Predators",
+      "division": "Central",
+      "id": "nhl-nsh",
+      "location": "Nashville",
+      "logoUrl": null,
+      "name": "Predators"
+    },
+    {
+      "abbreviation": "STL",
+      "colors": {
+        "primary": "#002F87",
+        "secondary": "#FCB514"
+      },
+      "conference": "Western",
+      "displayName": "St. Louis Blues",
+      "division": "Central",
+      "id": "nhl-stl",
+      "location": "St. Louis",
+      "logoUrl": null,
+      "name": "Blues"
+    },
+    {
+      "abbreviation": "UTA",
+      "colors": {
+        "primary": "#69B3E7",
+        "secondary": "#010101"
+      },
+      "conference": "Western",
+      "displayName": "Utah Mammoth",
+      "division": "Central",
+      "id": "nhl-uta",
+      "location": "Utah",
+      "logoUrl": null,
+      "name": "Mammoth"
+    },
+    {
+      "abbreviation": "WPG",
+      "colors": {
+        "primary": "#041E42",
+        "secondary": "#004C97"
+      },
+      "conference": "Western",
+      "displayName": "Winnipeg Jets",
+      "division": "Central",
+      "id": "nhl-wpg",
+      "location": "Winnipeg",
+      "logoUrl": null,
+      "name": "Jets"
+    },
+    {
+      "abbreviation": "ANA",
+      "colors": {
+        "primary": "#F47A38",
+        "secondary": "#B9975B"
+      },
+      "conference": "Western",
+      "displayName": "Anaheim Ducks",
+      "division": "Pacific",
+      "id": "nhl-ana",
+      "location": "Anaheim",
+      "logoUrl": null,
+      "name": "Ducks"
+    },
+    {
+      "abbreviation": "CGY",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#F1BE48"
+      },
+      "conference": "Western",
+      "displayName": "Calgary Flames",
+      "division": "Pacific",
+      "id": "nhl-cgy",
+      "location": "Calgary",
+      "logoUrl": null,
+      "name": "Flames"
+    },
+    {
+      "abbreviation": "EDM",
+      "colors": {
+        "primary": "#041E42",
+        "secondary": "#FF4C00"
+      },
+      "conference": "Western",
+      "displayName": "Edmonton Oilers",
+      "division": "Pacific",
+      "id": "nhl-edm",
+      "location": "Edmonton",
+      "logoUrl": null,
+      "name": "Oilers"
+    },
+    {
+      "abbreviation": "LAK",
+      "colors": {
+        "primary": "#111111",
+        "secondary": "#A2AAAD"
+      },
+      "conference": "Western",
+      "displayName": "Los Angeles Kings",
+      "division": "Pacific",
+      "id": "nhl-lak",
+      "location": "Los Angeles",
+      "logoUrl": null,
+      "name": "Kings"
+    },
+    {
+      "abbreviation": "SJS",
+      "colors": {
+        "primary": "#006D75",
+        "secondary": "#EA7200"
+      },
+      "conference": "Western",
+      "displayName": "San Jose Sharks",
+      "division": "Pacific",
+      "id": "nhl-sjs",
+      "location": "San Jose",
+      "logoUrl": null,
+      "name": "Sharks"
+    },
+    {
+      "abbreviation": "SEA",
+      "colors": {
+        "primary": "#001628",
+        "secondary": "#99D9D9"
+      },
+      "conference": "Western",
+      "displayName": "Seattle Kraken",
+      "division": "Pacific",
+      "id": "nhl-sea",
+      "location": "Seattle",
+      "logoUrl": null,
+      "name": "Kraken"
+    },
+    {
+      "abbreviation": "VAN",
+      "colors": {
+        "primary": "#00205B",
+        "secondary": "#00843D"
+      },
+      "conference": "Western",
+      "displayName": "Vancouver Canucks",
+      "division": "Pacific",
+      "id": "nhl-van",
+      "location": "Vancouver",
+      "logoUrl": null,
+      "name": "Canucks"
+    },
+    {
+      "abbreviation": "VGK",
+      "colors": {
+        "primary": "#B4975A",
+        "secondary": "#333F42"
+      },
+      "conference": "Western",
+      "displayName": "Vegas Golden Knights",
+      "division": "Pacific",
+      "id": "nhl-vgk",
+      "location": "Vegas",
+      "logoUrl": null,
+      "name": "Golden Knights"
+    }
+  ]
+}

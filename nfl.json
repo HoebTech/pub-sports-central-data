@@ -1,0 +1,1959 @@
+{
+  "attribution": "NFL data: nflverse, CC BY 4.0 (adapted)",
+  "generatedAt": "2026-10-23T10:01:11Z",
+  "isSample": false,
+  "league": {
+    "key": "nfl",
+    "name": "National Football League",
+    "shortName": "NFL"
+  },
+  "playoffs": null,
+  "provider": {
+    "lastAttemptAt": "2026-10-23T10:01:11Z",
+    "lastSuccessAt": "2026-10-23T10:01:11Z",
+    "message": "Schedule, finals and standings: nflverse (CC BY 4.0); live scores: BALLDONTLIE",
+    "provider": "nflverse-live",
+    "state": "ok"
+  },
+  "rankings": null,
+  "schedule": {
+    "games": [
+      {
+        "away": {
+          "rank": null,
+          "record": "4-3",
+          "score": 24,
+          "teamId": "nfl-ne"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "5-2",
+          "score": 30,
+          "teamId": "nfl-chi"
+        },
+        "id": "nfl-2026-w07-ne-chi",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": "Thursday Night Football",
+        "startTime": "2026-10-23T00:15:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Soldier Field"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2",
+          "score": null,
+          "teamId": "nfl-pit"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-no"
+        },
+        "id": "nfl-2026-w07-pit-no",
+        "label": "Week 7",
+        "neutralSite": true,
+        "note": null,
+        "startTime": "2026-10-25T13:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Stade de France"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "3-2",
+          "score": null,
+          "teamId": "nfl-cin"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "4-2",
+          "score": null,
+          "teamId": "nfl-bal"
+        },
+        "id": "nfl-2026-w07-cin-bal",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T17:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "M&T Bank Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2",
+          "score": null,
+          "teamId": "nfl-cle"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "1-5",
+          "score": null,
+          "teamId": "nfl-ten"
+        },
+        "id": "nfl-2026-w07-cle-ten",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T17:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Nissan Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-ind"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "5-0",
+          "score": null,
+          "teamId": "nfl-min"
+        },
+        "id": "nfl-2026-w07-ind-min",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T17:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "U.S. Bank Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "0-5",
+          "score": null,
+          "teamId": "nfl-mia"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-nyj"
+        },
+        "id": "nfl-2026-w07-mia-nyj",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T17:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "MetLife Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "3-2-1",
+          "score": null,
+          "teamId": "nfl-nyg"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-hou"
+        },
+        "id": "nfl-2026-w07-nyg-hou",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T17:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "NRG Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "6-0",
+          "score": null,
+          "teamId": "nfl-sf"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-atl"
+        },
+        "id": "nfl-2026-w07-sf-atl",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T17:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Mercedes-Benz Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "1-5",
+          "score": null,
+          "teamId": "nfl-tb"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "3-2",
+          "score": null,
+          "teamId": "nfl-car"
+        },
+        "id": "nfl-2026-w07-tb-car",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T17:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Bank of America Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2",
+          "score": null,
+          "teamId": "nfl-den"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-ari"
+        },
+        "id": "nfl-2026-w07-den-ari",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T20:05:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "State Farm Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2",
+          "score": null,
+          "teamId": "nfl-gb"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "3-2",
+          "score": null,
+          "teamId": "nfl-det"
+        },
+        "id": "nfl-2026-w07-gb-det",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T20:25:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Ford Field"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-lar"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "3-3",
+          "score": null,
+          "teamId": "nfl-lv"
+        },
+        "id": "nfl-2026-w07-lar-lv",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-25T20:25:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Allegiant Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "5-0",
+          "score": null,
+          "teamId": "nfl-kc"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "3-3",
+          "score": null,
+          "teamId": "nfl-sea"
+        },
+        "id": "nfl-2026-w07-kc-sea",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": "Sunday Night Football",
+        "startTime": "2026-10-26T00:20:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Lumen Field"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-dal"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": "2-4",
+          "score": null,
+          "teamId": "nfl-phi"
+        },
+        "id": "nfl-2026-w07-dal-phi",
+        "label": "Week 7",
+        "neutralSite": false,
+        "note": "Monday Night Football",
+        "startTime": "2026-10-27T00:15:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Lincoln Financial Field"
+      }
+    ],
+    "label": "Week 7",
+    "next": {
+      "games": [
+        {
+          "away": {
+            "rank": null,
+            "record": "3-2",
+            "score": null,
+            "teamId": "nfl-car"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "4-2",
+            "score": null,
+            "teamId": "nfl-gb"
+          },
+          "id": "nfl-2026-w08-car-gb",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": "Thursday Night Football",
+          "startTime": "2026-10-30T00:15:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Lambeau Field"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "2-4",
+            "score": null,
+            "teamId": "nfl-ari"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "2-4",
+            "score": null,
+            "teamId": "nfl-dal"
+          },
+          "id": "nfl-2026-w08-ari-dal",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "AT&T Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "2-4",
+            "score": null,
+            "teamId": "nfl-atl"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "1-5",
+            "score": null,
+            "teamId": "nfl-tb"
+          },
+          "id": "nfl-2026-w08-atl-tb",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Raymond James Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "4-2",
+            "score": null,
+            "teamId": "nfl-bal"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "5-1",
+            "score": null,
+            "teamId": "nfl-buf"
+          },
+          "id": "nfl-2026-w08-bal-buf",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Highmark Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "4-2",
+            "score": null,
+            "teamId": "nfl-cle"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "4-2",
+            "score": null,
+            "teamId": "nfl-pit"
+          },
+          "id": "nfl-2026-w08-cle-pit",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Acrisure Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "2-4",
+            "score": null,
+            "teamId": "nfl-ind"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "4-2",
+            "score": null,
+            "teamId": "nfl-jax"
+          },
+          "id": "nfl-2026-w08-ind-jax",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "EverBank Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "3-3",
+            "score": null,
+            "teamId": "nfl-lv"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "2-4",
+            "score": null,
+            "teamId": "nfl-nyj"
+          },
+          "id": "nfl-2026-w08-lv-nyj",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "MetLife Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "5-0",
+            "score": null,
+            "teamId": "nfl-min"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "3-2",
+            "score": null,
+            "teamId": "nfl-det"
+          },
+          "id": "nfl-2026-w08-min-det",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Ford Field"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "1-5",
+            "score": null,
+            "teamId": "nfl-ten"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "3-2",
+            "score": null,
+            "teamId": "nfl-cin"
+          },
+          "id": "nfl-2026-w08-ten-cin",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T18:00:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Paycor Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "0-6",
+            "score": null,
+            "teamId": "nfl-lac"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "2-4",
+            "score": null,
+            "teamId": "nfl-lar"
+          },
+          "id": "nfl-2026-w08-lac-lar",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T21:05:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "SoFi Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "5-0",
+            "score": null,
+            "teamId": "nfl-kc"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "4-2",
+            "score": null,
+            "teamId": "nfl-den"
+          },
+          "id": "nfl-2026-w08-kc-den",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T21:25:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Empower Field at Mile High"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "4-3",
+            "score": null,
+            "teamId": "nfl-ne"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "0-5",
+            "score": null,
+            "teamId": "nfl-mia"
+          },
+          "id": "nfl-2026-w08-ne-mia",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": null,
+          "startTime": "2026-11-01T21:25:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Hard Rock Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "2-4",
+            "score": null,
+            "teamId": "nfl-phi"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "1-4-1",
+            "score": null,
+            "teamId": "nfl-wsh"
+          },
+          "id": "nfl-2026-w08-phi-wsh",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": "Sunday Night Football",
+          "startTime": "2026-11-02T01:20:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Northwest Stadium"
+        },
+        {
+          "away": {
+            "rank": null,
+            "record": "5-2",
+            "score": null,
+            "teamId": "nfl-chi"
+          },
+          "broadcasts": null,
+          "home": {
+            "rank": null,
+            "record": "3-3",
+            "score": null,
+            "teamId": "nfl-sea"
+          },
+          "id": "nfl-2026-w08-chi-sea",
+          "label": "Week 8",
+          "neutralSite": false,
+          "note": "Monday Night Football",
+          "startTime": "2026-11-03T01:15:00Z",
+          "status": "scheduled",
+          "statusDetail": null,
+          "timeTbd": false,
+          "venue": "Lumen Field"
+        }
+      ],
+      "label": "Week 8",
+      "rangeEnd": "2026-11-03T16:59:59Z",
+      "rangeStart": "2026-10-29T04:00:00Z",
+      "updatedAt": "2026-10-23T00:15:00Z"
+    },
+    "rangeEnd": "2026-10-27T15:59:59Z",
+    "rangeStart": "2026-10-22T04:00:00Z",
+    "updatedAt": "2026-10-23T00:15:00Z"
+  },
+  "schemaVersion": 1,
+  "season": "2026",
+  "sport": "nfl",
+  "standings": {
+    "groups": [
+      {
+        "id": "afc-east",
+        "name": "AFC East",
+        "parent": "AFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "3-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 171,
+            "pointsFor": 197,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "3-0",
+              "byeWeek": 7,
+              "divisionRecord": "0-1",
+              "homeRecord": "2-1",
+              "pointDifferential": 26
+            },
+            "streak": "W2",
+            "teamId": "nfl-buf",
+            "ties": 0,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "4-1",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 143,
+            "pointsFor": 160,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-3",
+              "byeWeek": 11,
+              "divisionRecord": "2-0",
+              "homeRecord": "3-0",
+              "pointDifferential": 17
+            },
+            "streak": "L1",
+            "teamId": "nfl-ne",
+            "ties": 0,
+            "winPct": 0.571,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 122,
+            "pointsFor": 112,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "1-3",
+              "byeWeek": 13,
+              "divisionRecord": "0-1",
+              "homeRecord": "1-1",
+              "pointDifferential": -10
+            },
+            "streak": "L1",
+            "teamId": "nfl-nyj",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-3",
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 132,
+            "pointsFor": 70,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-3",
+              "byeWeek": 6,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-2",
+              "pointDifferential": -62
+            },
+            "streak": "L5",
+            "teamId": "nfl-mia",
+            "ties": 0,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "afc-north",
+        "name": "AFC North",
+        "parent": "AFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 122,
+            "pointsFor": 106,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 11,
+              "divisionRecord": "2-0",
+              "homeRecord": "3-0",
+              "pointDifferential": -16
+            },
+            "streak": "W1",
+            "teamId": "nfl-cle",
+            "ties": 0,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 128,
+            "pointsFor": 137,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 9,
+              "divisionRecord": "1-1",
+              "homeRecord": "3-0",
+              "pointDifferential": 9
+            },
+            "streak": "W2",
+            "teamId": "nfl-pit",
+            "ties": 0,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 132,
+            "pointsFor": 156,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "3-1",
+              "byeWeek": 13,
+              "divisionRecord": "0-1",
+              "homeRecord": "1-1",
+              "pointDifferential": 24
+            },
+            "streak": "L1",
+            "teamId": "nfl-bal",
+            "ties": 0,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 109,
+            "pointsFor": 128,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 6,
+              "divisionRecord": "0-1",
+              "homeRecord": "1-1",
+              "pointDifferential": 19
+            },
+            "streak": "W1",
+            "teamId": "nfl-cin",
+            "ties": 0,
+            "winPct": 0.6,
+            "wins": 3
+          }
+        ]
+      },
+      {
+        "id": "afc-south",
+        "name": "AFC South",
+        "parent": "AFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "3-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 104,
+            "pointsFor": 154,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "1-1",
+              "byeWeek": 7,
+              "divisionRecord": "0-1",
+              "homeRecord": "3-1",
+              "pointDifferential": 50
+            },
+            "streak": "L1",
+            "teamId": "nfl-jax",
+            "ties": 0,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-4",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 164,
+            "pointsFor": 144,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 13,
+              "divisionRecord": "1-1",
+              "homeRecord": "1-2",
+              "pointDifferential": -20
+            },
+            "streak": "L2",
+            "teamId": "nfl-ind",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 143,
+            "pointsFor": 144,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 8,
+              "divisionRecord": "2-1",
+              "homeRecord": "0-3",
+              "pointDifferential": 1
+            },
+            "streak": "W2",
+            "teamId": "nfl-hou",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 129,
+            "pointsFor": 84,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 9,
+              "divisionRecord": "1-1",
+              "homeRecord": "0-3",
+              "pointDifferential": -45
+            },
+            "streak": "W1",
+            "teamId": "nfl-ten",
+            "ties": 0,
+            "winPct": 0.167,
+            "wins": 1
+          }
+        ]
+      },
+      {
+        "id": "afc-west",
+        "name": "AFC West",
+        "parent": "AFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "5-0",
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 83,
+            "pointsFor": 140,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "2-0",
+              "byeWeek": 5,
+              "divisionRecord": "3-0",
+              "homeRecord": "3-0",
+              "pointDifferential": 57
+            },
+            "streak": "W5",
+            "teamId": "nfl-kc",
+            "ties": 0,
+            "winPct": 1.0,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 125,
+            "pointsFor": 114,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 10,
+              "divisionRecord": "1-1",
+              "homeRecord": "3-0",
+              "pointDifferential": -11
+            },
+            "streak": "W2",
+            "teamId": "nfl-den",
+            "ties": 0,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-3",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 162,
+            "pointsFor": 162,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 13,
+              "divisionRecord": "1-1",
+              "homeRecord": "1-2",
+              "pointDifferential": 0
+            },
+            "streak": "L3",
+            "teamId": "nfl-lv",
+            "ties": 0,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-4",
+            "gamesBack": null,
+            "losses": 6,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 151,
+            "pointsFor": 90,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-3",
+              "byeWeek": 7,
+              "divisionRecord": "0-3",
+              "homeRecord": "0-3",
+              "pointDifferential": -61
+            },
+            "streak": "L6",
+            "teamId": "nfl-lac",
+            "ties": 0,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "nfc-east",
+        "name": "NFC East",
+        "parent": "NFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 140,
+            "pointsFor": 136,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "0-1-1",
+              "byeWeek": 8,
+              "divisionRecord": "1-0-1",
+              "homeRecord": "3-1",
+              "pointDifferential": -4
+            },
+            "streak": "L1",
+            "teamId": "nfl-nyg",
+            "ties": 1,
+            "winPct": 0.583,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 137,
+            "pointsFor": 106,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 10,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-2",
+              "pointDifferential": -31
+            },
+            "streak": "L4",
+            "teamId": "nfl-phi",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 159,
+            "pointsFor": 151,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 14,
+              "divisionRecord": "1-1",
+              "homeRecord": "1-2",
+              "pointDifferential": -8
+            },
+            "streak": "L2",
+            "teamId": "nfl-dal",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3-1",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 172,
+            "pointsFor": 132,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-3",
+              "byeWeek": 7,
+              "divisionRecord": "0-2-1",
+              "homeRecord": "1-1-1",
+              "pointDifferential": -40
+            },
+            "streak": "L1",
+            "teamId": "nfl-wsh",
+            "ties": 1,
+            "winPct": 0.25,
+            "wins": 1
+          }
+        ]
+      },
+      {
+        "id": "nfc-north",
+        "name": "NFC North",
+        "parent": "NFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "4-0",
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 64,
+            "pointsFor": 109,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "3-0",
+              "byeWeek": 6,
+              "divisionRecord": "2-0",
+              "homeRecord": "2-0",
+              "pointDifferential": 45
+            },
+            "streak": "W5",
+            "teamId": "nfl-min",
+            "ties": 0,
+            "winPct": 1.0,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 143,
+            "pointsFor": 180,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 10,
+              "divisionRecord": "0-2",
+              "homeRecord": "3-1",
+              "pointDifferential": 37
+            },
+            "streak": "W2",
+            "teamId": "nfl-chi",
+            "ties": 0,
+            "winPct": 0.714,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 125,
+            "pointsFor": 127,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 11,
+              "divisionRecord": "1-1",
+              "homeRecord": "2-1",
+              "pointDifferential": 2
+            },
+            "streak": "W3",
+            "teamId": "nfl-gb",
+            "ties": 0,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 148,
+            "pointsFor": 164,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 6,
+              "divisionRecord": "0-0",
+              "homeRecord": "2-0",
+              "pointDifferential": 16
+            },
+            "streak": "W1",
+            "teamId": "nfl-det",
+            "ties": 0,
+            "winPct": 0.6,
+            "wins": 3
+          }
+        ]
+      },
+      {
+        "id": "nfc-south",
+        "name": "NFC South",
+        "parent": "NFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "3-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 123,
+            "pointsFor": 146,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 5,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-1",
+              "pointDifferential": 23
+            },
+            "streak": "W2",
+            "teamId": "nfl-car",
+            "ties": 0,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 153,
+            "pointsFor": 142,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 11,
+              "divisionRecord": "1-1",
+              "homeRecord": "0-3",
+              "pointDifferential": -11
+            },
+            "streak": "L2",
+            "teamId": "nfl-atl",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 178,
+            "pointsFor": 152,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "2-1",
+              "byeWeek": 8,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-3",
+              "pointDifferential": -26
+            },
+            "streak": "W1",
+            "teamId": "nfl-no",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 138,
+            "pointsFor": 119,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "1-1",
+              "byeWeek": 10,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-4",
+              "pointDifferential": -19
+            },
+            "streak": "L1",
+            "teamId": "nfl-tb",
+            "ties": 0,
+            "winPct": 0.167,
+            "wins": 1
+          }
+        ]
+      },
+      {
+        "id": "nfc-west",
+        "name": "NFC West",
+        "parent": "NFC",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "4-0",
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 110,
+            "pointsFor": 177,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "2-0",
+              "byeWeek": 8,
+              "divisionRecord": "3-0",
+              "homeRecord": "4-0",
+              "pointDifferential": 67
+            },
+            "streak": "W6",
+            "teamId": "nfl-sf",
+            "ties": 0,
+            "winPct": 1.0,
+            "wins": 6
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 122,
+            "pointsFor": 148,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-2",
+              "byeWeek": 11,
+              "divisionRecord": "1-1",
+              "homeRecord": "2-1",
+              "pointDifferential": 26
+            },
+            "streak": "L2",
+            "teamId": "nfl-sea",
+            "ties": 0,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-4",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 178,
+            "pointsFor": 126,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "2-2",
+              "byeWeek": 14,
+              "divisionRecord": "1-2",
+              "homeRecord": "0-2",
+              "pointDifferential": -52
+            },
+            "streak": "W1",
+            "teamId": "nfl-ari",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 138,
+            "pointsFor": 135,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "1-1",
+              "byeWeek": 11,
+              "divisionRecord": "0-2",
+              "homeRecord": "1-3",
+              "pointDifferential": -3
+            },
+            "streak": "L2",
+            "teamId": "nfl-lar",
+            "ties": 0,
+            "winPct": 0.333,
+            "wins": 2
+          }
+        ]
+      }
+    ],
+    "season": "2026",
+    "seasonType": "regular",
+    "updatedAt": "2026-10-23T00:15:00Z"
+  },
+  "teams": [
+    {
+      "abbreviation": "BUF",
+      "colors": {
+        "primary": "#00338D",
+        "secondary": "#C60C30"
+      },
+      "conference": "AFC",
+      "displayName": "Buffalo Bills",
+      "division": "AFC East",
+      "id": "nfl-buf",
+      "location": "Buffalo",
+      "logoUrl": null,
+      "name": "Bills"
+    },
+    {
+      "abbreviation": "MIA",
+      "colors": {
+        "primary": "#008E97",
+        "secondary": "#FC4C02"
+      },
+      "conference": "AFC",
+      "displayName": "Miami Dolphins",
+      "division": "AFC East",
+      "id": "nfl-mia",
+      "location": "Miami",
+      "logoUrl": null,
+      "name": "Dolphins"
+    },
+    {
+      "abbreviation": "NE",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#C60C30"
+      },
+      "conference": "AFC",
+      "displayName": "New England Patriots",
+      "division": "AFC East",
+      "id": "nfl-ne",
+      "location": "New England",
+      "logoUrl": null,
+      "name": "Patriots"
+    },
+    {
+      "abbreviation": "NYJ",
+      "colors": {
+        "primary": "#125740",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "AFC",
+      "displayName": "New York Jets",
+      "division": "AFC East",
+      "id": "nfl-nyj",
+      "location": "New York",
+      "logoUrl": null,
+      "name": "Jets"
+    },
+    {
+      "abbreviation": "BAL",
+      "colors": {
+        "primary": "#241773",
+        "secondary": "#9E7C0C"
+      },
+      "conference": "AFC",
+      "displayName": "Baltimore Ravens",
+      "division": "AFC North",
+      "id": "nfl-bal",
+      "location": "Baltimore",
+      "logoUrl": null,
+      "name": "Ravens"
+    },
+    {
+      "abbreviation": "CIN",
+      "colors": {
+        "primary": "#FB4F14",
+        "secondary": "#000000"
+      },
+      "conference": "AFC",
+      "displayName": "Cincinnati Bengals",
+      "division": "AFC North",
+      "id": "nfl-cin",
+      "location": "Cincinnati",
+      "logoUrl": null,
+      "name": "Bengals"
+    },
+    {
+      "abbreviation": "CLE",
+      "colors": {
+        "primary": "#311D00",
+        "secondary": "#FF3C00"
+      },
+      "conference": "AFC",
+      "displayName": "Cleveland Browns",
+      "division": "AFC North",
+      "id": "nfl-cle",
+      "location": "Cleveland",
+      "logoUrl": null,
+      "name": "Browns"
+    },
+    {
+      "abbreviation": "PIT",
+      "colors": {
+        "primary": "#FFB612",
+        "secondary": "#101820"
+      },
+      "conference": "AFC",
+      "displayName": "Pittsburgh Steelers",
+      "division": "AFC North",
+      "id": "nfl-pit",
+      "location": "Pittsburgh",
+      "logoUrl": null,
+      "name": "Steelers"
+    },
+    {
+      "abbreviation": "HOU",
+      "colors": {
+        "primary": "#03202F",
+        "secondary": "#A71930"
+      },
+      "conference": "AFC",
+      "displayName": "Houston Texans",
+      "division": "AFC South",
+      "id": "nfl-hou",
+      "location": "Houston",
+      "logoUrl": null,
+      "name": "Texans"
+    },
+    {
+      "abbreviation": "IND",
+      "colors": {
+        "primary": "#002C5F",
+        "secondary": "#A2AAAD"
+      },
+      "conference": "AFC",
+      "displayName": "Indianapolis Colts",
+      "division": "AFC South",
+      "id": "nfl-ind",
+      "location": "Indianapolis",
+      "logoUrl": null,
+      "name": "Colts"
+    },
+    {
+      "abbreviation": "JAX",
+      "colors": {
+        "primary": "#006778",
+        "secondary": "#D7A22A"
+      },
+      "conference": "AFC",
+      "displayName": "Jacksonville Jaguars",
+      "division": "AFC South",
+      "id": "nfl-jax",
+      "location": "Jacksonville",
+      "logoUrl": null,
+      "name": "Jaguars"
+    },
+    {
+      "abbreviation": "TEN",
+      "colors": {
+        "primary": "#0C2340",
+        "secondary": "#4B92DB"
+      },
+      "conference": "AFC",
+      "displayName": "Tennessee Titans",
+      "division": "AFC South",
+      "id": "nfl-ten",
+      "location": "Tennessee",
+      "logoUrl": null,
+      "name": "Titans"
+    },
+    {
+      "abbreviation": "DEN",
+      "colors": {
+        "primary": "#FB4F14",
+        "secondary": "#002244"
+      },
+      "conference": "AFC",
+      "displayName": "Denver Broncos",
+      "division": "AFC West",
+      "id": "nfl-den",
+      "location": "Denver",
+      "logoUrl": null,
+      "name": "Broncos"
+    },
+    {
+      "abbreviation": "KC",
+      "colors": {
+        "primary": "#E31837",
+        "secondary": "#FFB81C"
+      },
+      "conference": "AFC",
+      "displayName": "Kansas City Chiefs",
+      "division": "AFC West",
+      "id": "nfl-kc",
+      "location": "Kansas City",
+      "logoUrl": null,
+      "name": "Chiefs"
+    },
+    {
+      "abbreviation": "LV",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#A5ACAF"
+      },
+      "conference": "AFC",
+      "displayName": "Las Vegas Raiders",
+      "division": "AFC West",
+      "id": "nfl-lv",
+      "location": "Las Vegas",
+      "logoUrl": null,
+      "name": "Raiders"
+    },
+    {
+      "abbreviation": "LAC",
+      "colors": {
+        "primary": "#0080C6",
+        "secondary": "#FFC20E"
+      },
+      "conference": "AFC",
+      "displayName": "Los Angeles Chargers",
+      "division": "AFC West",
+      "id": "nfl-lac",
+      "location": "Los Angeles",
+      "logoUrl": null,
+      "name": "Chargers"
+    },
+    {
+      "abbreviation": "DAL",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#869397"
+      },
+      "conference": "NFC",
+      "displayName": "Dallas Cowboys",
+      "division": "NFC East",
+      "id": "nfl-dal",
+      "location": "Dallas",
+      "logoUrl": null,
+      "name": "Cowboys"
+    },
+    {
+      "abbreviation": "NYG",
+      "colors": {
+        "primary": "#0B2265",
+        "secondary": "#A71930"
+      },
+      "conference": "NFC",
+      "displayName": "New York Giants",
+      "division": "NFC East",
+      "id": "nfl-nyg",
+      "location": "New York",
+      "logoUrl": null,
+      "name": "Giants"
+    },
+    {
+      "abbreviation": "PHI",
+      "colors": {
+        "primary": "#004C54",
+        "secondary": "#A5ACAF"
+      },
+      "conference": "NFC",
+      "displayName": "Philadelphia Eagles",
+      "division": "NFC East",
+      "id": "nfl-phi",
+      "location": "Philadelphia",
+      "logoUrl": null,
+      "name": "Eagles"
+    },
+    {
+      "abbreviation": "WSH",
+      "colors": {
+        "primary": "#5A1414",
+        "secondary": "#FFB612"
+      },
+      "conference": "NFC",
+      "displayName": "Washington Commanders",
+      "division": "NFC East",
+      "id": "nfl-wsh",
+      "location": "Washington",
+      "logoUrl": null,
+      "name": "Commanders"
+    },
+    {
+      "abbreviation": "CHI",
+      "colors": {
+        "primary": "#0B162A",
+        "secondary": "#C83803"
+      },
+      "conference": "NFC",
+      "displayName": "Chicago Bears",
+      "division": "NFC North",
+      "id": "nfl-chi",
+      "location": "Chicago",
+      "logoUrl": null,
+      "name": "Bears"
+    },
+    {
+      "abbreviation": "DET",
+      "colors": {
+        "primary": "#0076B6",
+        "secondary": "#B0B7BC"
+      },
+      "conference": "NFC",
+      "displayName": "Detroit Lions",
+      "division": "NFC North",
+      "id": "nfl-det",
+      "location": "Detroit",
+      "logoUrl": null,
+      "name": "Lions"
+    },
+    {
+      "abbreviation": "GB",
+      "colors": {
+        "primary": "#203731",
+        "secondary": "#FFB612"
+      },
+      "conference": "NFC",
+      "displayName": "Green Bay Packers",
+      "division": "NFC North",
+      "id": "nfl-gb",
+      "location": "Green Bay",
+      "logoUrl": null,
+      "name": "Packers"
+    },
+    {
+      "abbreviation": "MIN",
+      "colors": {
+        "primary": "#4F2683",
+        "secondary": "#FFC62F"
+      },
+      "conference": "NFC",
+      "displayName": "Minnesota Vikings",
+      "division": "NFC North",
+      "id": "nfl-min",
+      "location": "Minnesota",
+      "logoUrl": null,
+      "name": "Vikings"
+    },
+    {
+      "abbreviation": "ATL",
+      "colors": {
+        "primary": "#A71930",
+        "secondary": "#000000"
+      },
+      "conference": "NFC",
+      "displayName": "Atlanta Falcons",
+      "division": "NFC South",
+      "id": "nfl-atl",
+      "location": "Atlanta",
+      "logoUrl": null,
+      "name": "Falcons"
+    },
+    {
+      "abbreviation": "CAR",
+      "colors": {
+        "primary": "#0085CA",
+        "secondary": "#101820"
+      },
+      "conference": "NFC",
+      "displayName": "Carolina Panthers",
+      "division": "NFC South",
+      "id": "nfl-car",
+      "location": "Carolina",
+      "logoUrl": null,
+      "name": "Panthers"
+    },
+    {
+      "abbreviation": "NO",
+      "colors": {
+        "primary": "#D3BC8D",
+        "secondary": "#101820"
+      },
+      "conference": "NFC",
+      "displayName": "New Orleans Saints",
+      "division": "NFC South",
+      "id": "nfl-no",
+      "location": "New Orleans",
+      "logoUrl": null,
+      "name": "Saints"
+    },
+    {
+      "abbreviation": "TB",
+      "colors": {
+        "primary": "#D50A0A",
+        "secondary": "#34302B"
+      },
+      "conference": "NFC",
+      "displayName": "Tampa Bay Buccaneers",
+      "division": "NFC South",
+      "id": "nfl-tb",
+      "location": "Tampa Bay",
+      "logoUrl": null,
+      "name": "Buccaneers"
+    },
+    {
+      "abbreviation": "ARI",
+      "colors": {
+        "primary": "#97233F",
+        "secondary": "#000000"
+      },
+      "conference": "NFC",
+      "displayName": "Arizona Cardinals",
+      "division": "NFC West",
+      "id": "nfl-ari",
+      "location": "Arizona",
+      "logoUrl": null,
+      "name": "Cardinals"
+    },
+    {
+      "abbreviation": "LAR",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#FFA300"
+      },
+      "conference": "NFC",
+      "displayName": "Los Angeles Rams",
+      "division": "NFC West",
+      "id": "nfl-lar",
+      "location": "Los Angeles",
+      "logoUrl": null,
+      "name": "Rams"
+    },
+    {
+      "abbreviation": "SF",
+      "colors": {
+        "primary": "#AA0000",
+        "secondary": "#B3995D"
+      },
+      "conference": "NFC",
+      "displayName": "San Francisco 49ers",
+      "division": "NFC West",
+      "id": "nfl-sf",
+      "location": "San Francisco",
+      "logoUrl": null,
+      "name": "49ers"
+    },
+    {
+      "abbreviation": "SEA",
+      "colors": {
+        "primary": "#002244",
+        "secondary": "#69BE28"
+      },
+      "conference": "NFC",
+      "displayName": "Seattle Seahawks",
+      "division": "NFC West",
+      "id": "nfl-sea",
+      "location": "Seattle",
+      "logoUrl": null,
+      "name": "Seahawks"
+    }
+  ]
+}

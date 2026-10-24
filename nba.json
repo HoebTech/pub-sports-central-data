@@ -1,0 +1,3504 @@
+{
+  "attribution": "NBA data: BALLDONTLIE (unofficial)",
+  "generatedAt": "2026-10-24T10:01:11Z",
+  "isSample": false,
+  "league": {
+    "key": "nba",
+    "name": "National Basketball Association",
+    "shortName": "NBA"
+  },
+  "playoffs": null,
+  "provider": {
+    "lastAttemptAt": "2026-10-24T10:01:11Z",
+    "lastSuccessAt": "2026-10-24T10:01:11Z",
+    "message": "Standings calculated from 28 final scores (unofficial, no tiebreakers)",
+    "provider": "balldontlie-nba",
+    "state": "ok"
+  },
+  "rankings": null,
+  "schedule": {
+    "games": [
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 106,
+          "teamId": "nba-cle"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 114,
+          "teamId": "nba-phi"
+        },
+        "id": "nba-bdl-21717860",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-22T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 84,
+          "teamId": "nba-den"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 96,
+          "teamId": "nba-okc"
+        },
+        "id": "nba-bdl-21717861",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-23T01:30:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 132,
+          "teamId": "nba-chi"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 125,
+          "teamId": "nba-mil"
+        },
+        "id": "nba-bdl-21717941",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-23T20:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 103,
+          "teamId": "nba-nyk"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 107,
+          "teamId": "nba-bos"
+        },
+        "id": "nba-bdl-21717862",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-23T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 128,
+          "teamId": "nba-atl"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 81,
+          "teamId": "nba-cha"
+        },
+        "id": "nba-bdl-21717936",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-23T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 121,
+          "teamId": "nba-dal"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 105,
+          "teamId": "nba-ind"
+        },
+        "id": "nba-bdl-21717937",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-23T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 115,
+          "teamId": "nba-min"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 93,
+          "teamId": "nba-orl"
+        },
+        "id": "nba-bdl-21717938",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-23T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 112,
+          "teamId": "nba-tor"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 102,
+          "teamId": "nba-was"
+        },
+        "id": "nba-bdl-21717939",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-23T23:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 128,
+          "teamId": "nba-det"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 111,
+          "teamId": "nba-mia"
+        },
+        "id": "nba-bdl-21717940",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T00:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 114,
+          "teamId": "nba-hou"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 110,
+          "teamId": "nba-sas"
+        },
+        "id": "nba-bdl-21717863",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T01:30:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 119,
+          "teamId": "nba-nop"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 120,
+          "teamId": "nba-uta"
+        },
+        "id": "nba-bdl-21717942",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T01:30:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 111,
+          "teamId": "nba-mem"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 108,
+          "teamId": "nba-gsw"
+        },
+        "id": "nba-bdl-21717943",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T02:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 117,
+          "teamId": "nba-lac"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 125,
+          "teamId": "nba-lal"
+        },
+        "id": "nba-bdl-21717944",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T02:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": 128,
+          "teamId": "nba-por"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": 120,
+          "teamId": "nba-sac"
+        },
+        "id": "nba-bdl-21717945",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T02:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mia"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cha"
+        },
+        "id": "nba-bdl-21717946",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T22:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-bkn"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cle"
+        },
+        "id": "nba-bdl-21717947",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mil"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-phi"
+        },
+        "id": "nba-bdl-21717948",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-24T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-was"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-chi"
+        },
+        "id": "nba-bdl-21717950",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-sas"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-dal"
+        },
+        "id": "nba-bdl-21717951",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-hou"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-atl"
+        },
+        "id": "nba-bdl-21717949",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T00:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-nop"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-den"
+        },
+        "id": "nba-bdl-21717953",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T01:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-gsw"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-phx"
+        },
+        "id": "nba-bdl-21717954",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-lal"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-uta"
+        },
+        "id": "nba-bdl-21717955",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T21:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-ind"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-bkn"
+        },
+        "id": "nba-bdl-21717956",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T22:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-orl"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-nyk"
+        },
+        "id": "nba-bdl-21717957",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-tor"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-min"
+        },
+        "id": "nba-bdl-21717958",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-lac"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-okc"
+        },
+        "id": "nba-bdl-21717959",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-det"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-phi"
+        },
+        "id": "nba-bdl-21717960",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-25T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mem"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-sac"
+        },
+        "id": "nba-bdl-21717961",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-26T01:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-was"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cha"
+        },
+        "id": "nba-bdl-21717962",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-26T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-min"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cle"
+        },
+        "id": "nba-bdl-21717963",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-26T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-chi"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-bos"
+        },
+        "id": "nba-bdl-21717964",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-26T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-dal"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mia"
+        },
+        "id": "nba-bdl-21717965",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-26T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-ind"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mil"
+        },
+        "id": "nba-bdl-21717966",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-27T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-phx"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-okc"
+        },
+        "id": "nba-bdl-21717967",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-27T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-atl"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-hou"
+        },
+        "id": "nba-bdl-21717968",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-27T00:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mem"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-uta"
+        },
+        "id": "nba-bdl-21717969",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-27T01:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-gsw"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-den"
+        },
+        "id": "nba-bdl-21717970",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-27T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-bkn"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-bos"
+        },
+        "id": "nba-bdl-21717971",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-27T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-det"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-nyk"
+        },
+        "id": "nba-bdl-21717972",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-sac"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-sas"
+        },
+        "id": "nba-bdl-21717973",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-por"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-lal"
+        },
+        "id": "nba-bdl-21717974",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T03:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mia"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-atl"
+        },
+        "id": "nba-bdl-21717975",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-was"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cle"
+        },
+        "id": "nba-bdl-21717976",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cha"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-det"
+        },
+        "id": "nba-bdl-21717977",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-phi"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-ind"
+        },
+        "id": "nba-bdl-21717978",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-orl"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-tor"
+        },
+        "id": "nba-bdl-21717979",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-28T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-nyk"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-chi"
+        },
+        "id": "nba-bdl-21717980",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-hou"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mil"
+        },
+        "id": "nba-bdl-21717981",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-gsw"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-min"
+        },
+        "id": "nba-bdl-21717982",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-den"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-nop"
+        },
+        "id": "nba-bdl-21717983",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-sas"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-uta"
+        },
+        "id": "nba-bdl-21717984",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T01:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-okc"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-dal"
+        },
+        "id": "nba-bdl-21717985",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T01:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-lal"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-lac"
+        },
+        "id": "nba-bdl-21717986",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T02:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cle"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-atl"
+        },
+        "id": "nba-bdl-21717987",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-29T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-sac"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-nop"
+        },
+        "id": "nba-bdl-21717988",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-30T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mem"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-por"
+        },
+        "id": "nba-bdl-21717989",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-30T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-cha"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-was"
+        },
+        "id": "nba-bdl-21717990",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-30T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-chi"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-bos"
+        },
+        "id": "nba-bdl-21717992",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-30T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-det"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-bkn"
+        },
+        "id": "nba-bdl-21717993",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-30T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-nyk"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-phi"
+        },
+        "id": "nba-bdl-21717994",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-30T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-orl"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-tor"
+        },
+        "id": "nba-bdl-21717995",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-30T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-ind"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-mia"
+        },
+        "id": "nba-bdl-21717996",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-31T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-hou"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-dal"
+        },
+        "id": "nba-bdl-21717997",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-31T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-lac"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-min"
+        },
+        "id": "nba-bdl-21717998",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-31T00:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-lal"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-gsw"
+        },
+        "id": "nba-bdl-21717999",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-31T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-den"
+        },
+        "broadcasts": null,
+        "home": {
+          "rank": null,
+          "record": null,
+          "score": null,
+          "teamId": "nba-phx"
+        },
+        "id": "nba-bdl-21718000",
+        "label": null,
+        "neutralSite": null,
+        "note": null,
+        "startTime": "2026-10-31T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": null
+      }
+    ],
+    "label": "Oct 22 - Oct 30",
+    "rangeEnd": "2026-10-31T03:59:59Z",
+    "rangeStart": "2026-10-22T04:00:00Z",
+    "updatedAt": "2026-10-24T02:00:00Z"
+  },
+  "schemaVersion": 1,
+  "season": "2026-27",
+  "sport": "nba",
+  "standings": {
+    "groups": [
+      {
+        "id": "east",
+        "name": "Eastern Conference",
+        "parent": null,
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "2-0",
+              "divisionRank": 1,
+              "divisionRecord": "2-0",
+              "homeRecord": "0-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-atl",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 1,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-det",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 1,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-phi",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-tor",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 3,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-bos",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-cha",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "1-1",
+              "divisionRank": 2,
+              "divisionRecord": "1-0",
+              "homeRecord": "0-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-chi",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-0",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-1",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-ind",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 9,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-1",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-was",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 10,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-1",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-bkn",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 11,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-0",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-cle",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 12,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-2",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-mia",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 13,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-mil",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 14,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-2",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-nyk",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 15,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-2",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-orl",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "west",
+        "name": "Western Conference",
+        "parent": null,
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 1,
+              "divisionRecord": "2-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-hou",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 1,
+              "divisionRecord": "2-0",
+              "homeRecord": "2-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-lal",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-mem",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "2-0",
+              "divisionRank": 1,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-min",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-okc",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-por",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "1-1",
+              "divisionRank": 3,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-dal",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 2,
+              "divisionRecord": "1-1",
+              "homeRecord": "1-0",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-lac",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 9,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-uta",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 10,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-0",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-den",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 11,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-0",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-phx",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 12,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-gsw",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 13,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-nop",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 14,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-sac",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 15,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-2",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-sas",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "atlantic",
+        "name": "Atlantic",
+        "parent": "Eastern",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 1,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-phi",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-tor",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 3,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-bos",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-1",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-bkn",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-2",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-nyk",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "central",
+        "name": "Central",
+        "parent": "Eastern",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 1,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-det",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-1",
+              "divisionRank": 2,
+              "divisionRecord": "1-0",
+              "homeRecord": "0-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-chi",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-0",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-1",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-ind",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-0",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-cle",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-mil",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "southeast",
+        "name": "Southeast",
+        "parent": "Eastern",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "2-0",
+              "divisionRank": 1,
+              "divisionRecord": "2-0",
+              "homeRecord": "0-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-atl",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-cha",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-1",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-was",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-2",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-mia",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-2",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-orl",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "northwest",
+        "name": "Northwest",
+        "parent": "Western",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "0-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "2-0",
+              "divisionRank": 1,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-min",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "1-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-okc",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-por",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-uta",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-0",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-den",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "pacific",
+        "name": "Pacific",
+        "parent": "Western",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 1,
+              "divisionRecord": "2-0",
+              "homeRecord": "2-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-lal",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 2,
+              "divisionRecord": "1-1",
+              "homeRecord": "1-0",
+              "last10": "1-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-lac",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.5,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 3,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-0",
+              "last10": "0-1"
+            },
+            "streak": "L1",
+            "teamId": "nba-phx",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-gsw",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-sac",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      },
+      {
+        "id": "southwest",
+        "name": "Southwest",
+        "parent": "Western",
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 1,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 1,
+              "divisionRecord": "2-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-hou",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": 0.0,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "1-0",
+              "divisionRank": 2,
+              "divisionRecord": "0-0",
+              "homeRecord": "1-0",
+              "last10": "2-0"
+            },
+            "streak": "W2",
+            "teamId": "nba-mem",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 1.0,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "1-1",
+              "divisionRank": 3,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-0",
+              "last10": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "nba-dal",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-1",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-1",
+              "divisionRank": 4,
+              "divisionRecord": "0-0",
+              "homeRecord": "0-1",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-nop",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": 2.0,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": null,
+            "pointsFor": null,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-0",
+              "divisionRank": 5,
+              "divisionRecord": "0-1",
+              "homeRecord": "0-2",
+              "last10": "0-2"
+            },
+            "streak": "L2",
+            "teamId": "nba-sas",
+            "ties": null,
+            "winPct": 0.0,
+            "wins": 0
+          }
+        ]
+      }
+    ],
+    "note": "Unofficial: calculated from final scores. Teams with the same win % share a position (listed by games back, then A-Z); NBA tiebreakers are not applied.",
+    "season": "2026-27",
+    "seasonType": "regular",
+    "updatedAt": "2026-10-24T02:00:00Z"
+  },
+  "teams": [
+    {
+      "abbreviation": "BOS",
+      "colors": {
+        "primary": "#007A33",
+        "secondary": "#BA9653"
+      },
+      "conference": "Eastern",
+      "displayName": "Boston Celtics",
+      "division": "Atlantic",
+      "id": "nba-bos",
+      "location": "Boston",
+      "logoUrl": null,
+      "name": "Celtics"
+    },
+    {
+      "abbreviation": "BKN",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Eastern",
+      "displayName": "Brooklyn Nets",
+      "division": "Atlantic",
+      "id": "nba-bkn",
+      "location": "Brooklyn",
+      "logoUrl": null,
+      "name": "Nets"
+    },
+    {
+      "abbreviation": "NYK",
+      "colors": {
+        "primary": "#006BB6",
+        "secondary": "#F58426"
+      },
+      "conference": "Eastern",
+      "displayName": "New York Knicks",
+      "division": "Atlantic",
+      "id": "nba-nyk",
+      "location": "New York",
+      "logoUrl": null,
+      "name": "Knicks"
+    },
+    {
+      "abbreviation": "PHI",
+      "colors": {
+        "primary": "#006BB6",
+        "secondary": "#ED174C"
+      },
+      "conference": "Eastern",
+      "displayName": "Philadelphia 76ers",
+      "division": "Atlantic",
+      "id": "nba-phi",
+      "location": "Philadelphia",
+      "logoUrl": null,
+      "name": "76ers"
+    },
+    {
+      "abbreviation": "TOR",
+      "colors": {
+        "primary": "#CE1141",
+        "secondary": "#000000"
+      },
+      "conference": "Eastern",
+      "displayName": "Toronto Raptors",
+      "division": "Atlantic",
+      "id": "nba-tor",
+      "location": "Toronto",
+      "logoUrl": null,
+      "name": "Raptors"
+    },
+    {
+      "abbreviation": "CHI",
+      "colors": {
+        "primary": "#CE1141",
+        "secondary": "#000000"
+      },
+      "conference": "Eastern",
+      "displayName": "Chicago Bulls",
+      "division": "Central",
+      "id": "nba-chi",
+      "location": "Chicago",
+      "logoUrl": null,
+      "name": "Bulls"
+    },
+    {
+      "abbreviation": "CLE",
+      "colors": {
+        "primary": "#860038",
+        "secondary": "#FDBB30"
+      },
+      "conference": "Eastern",
+      "displayName": "Cleveland Cavaliers",
+      "division": "Central",
+      "id": "nba-cle",
+      "location": "Cleveland",
+      "logoUrl": null,
+      "name": "Cavaliers"
+    },
+    {
+      "abbreviation": "DET",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#1D42BA"
+      },
+      "conference": "Eastern",
+      "displayName": "Detroit Pistons",
+      "division": "Central",
+      "id": "nba-det",
+      "location": "Detroit",
+      "logoUrl": null,
+      "name": "Pistons"
+    },
+    {
+      "abbreviation": "IND",
+      "colors": {
+        "primary": "#002D62",
+        "secondary": "#FDBB30"
+      },
+      "conference": "Eastern",
+      "displayName": "Indiana Pacers",
+      "division": "Central",
+      "id": "nba-ind",
+      "location": "Indiana",
+      "logoUrl": null,
+      "name": "Pacers"
+    },
+    {
+      "abbreviation": "MIL",
+      "colors": {
+        "primary": "#00471B",
+        "secondary": "#EEE1C6"
+      },
+      "conference": "Eastern",
+      "displayName": "Milwaukee Bucks",
+      "division": "Central",
+      "id": "nba-mil",
+      "location": "Milwaukee",
+      "logoUrl": null,
+      "name": "Bucks"
+    },
+    {
+      "abbreviation": "ATL",
+      "colors": {
+        "primary": "#E03A3E",
+        "secondary": "#C1D32F"
+      },
+      "conference": "Eastern",
+      "displayName": "Atlanta Hawks",
+      "division": "Southeast",
+      "id": "nba-atl",
+      "location": "Atlanta",
+      "logoUrl": null,
+      "name": "Hawks"
+    },
+    {
+      "abbreviation": "CHA",
+      "colors": {
+        "primary": "#1D1160",
+        "secondary": "#00788C"
+      },
+      "conference": "Eastern",
+      "displayName": "Charlotte Hornets",
+      "division": "Southeast",
+      "id": "nba-cha",
+      "location": "Charlotte",
+      "logoUrl": null,
+      "name": "Hornets"
+    },
+    {
+      "abbreviation": "MIA",
+      "colors": {
+        "primary": "#98002E",
+        "secondary": "#F9A01B"
+      },
+      "conference": "Eastern",
+      "displayName": "Miami Heat",
+      "division": "Southeast",
+      "id": "nba-mia",
+      "location": "Miami",
+      "logoUrl": null,
+      "name": "Heat"
+    },
+    {
+      "abbreviation": "ORL",
+      "colors": {
+        "primary": "#0077C0",
+        "secondary": "#C4CED4"
+      },
+      "conference": "Eastern",
+      "displayName": "Orlando Magic",
+      "division": "Southeast",
+      "id": "nba-orl",
+      "location": "Orlando",
+      "logoUrl": null,
+      "name": "Magic"
+    },
+    {
+      "abbreviation": "WAS",
+      "colors": {
+        "primary": "#002B5C",
+        "secondary": "#E31837"
+      },
+      "conference": "Eastern",
+      "displayName": "Washington Wizards",
+      "division": "Southeast",
+      "id": "nba-was",
+      "location": "Washington",
+      "logoUrl": null,
+      "name": "Wizards"
+    },
+    {
+      "abbreviation": "DEN",
+      "colors": {
+        "primary": "#0E2240",
+        "secondary": "#FEC524"
+      },
+      "conference": "Western",
+      "displayName": "Denver Nuggets",
+      "division": "Northwest",
+      "id": "nba-den",
+      "location": "Denver",
+      "logoUrl": null,
+      "name": "Nuggets"
+    },
+    {
+      "abbreviation": "MIN",
+      "colors": {
+        "primary": "#0C2340",
+        "secondary": "#236192"
+      },
+      "conference": "Western",
+      "displayName": "Minnesota Timberwolves",
+      "division": "Northwest",
+      "id": "nba-min",
+      "location": "Minnesota",
+      "logoUrl": null,
+      "name": "Timberwolves"
+    },
+    {
+      "abbreviation": "OKC",
+      "colors": {
+        "primary": "#007AC1",
+        "secondary": "#EF3B24"
+      },
+      "conference": "Western",
+      "displayName": "Oklahoma City Thunder",
+      "division": "Northwest",
+      "id": "nba-okc",
+      "location": "Oklahoma City",
+      "logoUrl": null,
+      "name": "Thunder"
+    },
+    {
+      "abbreviation": "POR",
+      "colors": {
+        "primary": "#E03A3E",
+        "secondary": "#000000"
+      },
+      "conference": "Western",
+      "displayName": "Portland Trail Blazers",
+      "division": "Northwest",
+      "id": "nba-por",
+      "location": "Portland",
+      "logoUrl": null,
+      "name": "Trail Blazers"
+    },
+    {
+      "abbreviation": "UTA",
+      "colors": {
+        "primary": "#002B5C",
+        "secondary": "#F9A01B"
+      },
+      "conference": "Western",
+      "displayName": "Utah Jazz",
+      "division": "Northwest",
+      "id": "nba-uta",
+      "location": "Utah",
+      "logoUrl": null,
+      "name": "Jazz"
+    },
+    {
+      "abbreviation": "GSW",
+      "colors": {
+        "primary": "#1D428A",
+        "secondary": "#FFC72C"
+      },
+      "conference": "Western",
+      "displayName": "Golden State Warriors",
+      "division": "Pacific",
+      "id": "nba-gsw",
+      "location": "Golden State",
+      "logoUrl": null,
+      "name": "Warriors"
+    },
+    {
+      "abbreviation": "LAC",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#1D428A"
+      },
+      "conference": "Western",
+      "displayName": "LA Clippers",
+      "division": "Pacific",
+      "id": "nba-lac",
+      "location": "Los Angeles",
+      "logoUrl": null,
+      "name": "Clippers"
+    },
+    {
+      "abbreviation": "LAL",
+      "colors": {
+        "primary": "#552583",
+        "secondary": "#FDB927"
+      },
+      "conference": "Western",
+      "displayName": "Los Angeles Lakers",
+      "division": "Pacific",
+      "id": "nba-lal",
+      "location": "Los Angeles",
+      "logoUrl": null,
+      "name": "Lakers"
+    },
+    {
+      "abbreviation": "PHX",
+      "colors": {
+        "primary": "#1D1160",
+        "secondary": "#E56020"
+      },
+      "conference": "Western",
+      "displayName": "Phoenix Suns",
+      "division": "Pacific",
+      "id": "nba-phx",
+      "location": "Phoenix",
+      "logoUrl": null,
+      "name": "Suns"
+    },
+    {
+      "abbreviation": "SAC",
+      "colors": {
+        "primary": "#5A2D81",
+        "secondary": "#63727A"
+      },
+      "conference": "Western",
+      "displayName": "Sacramento Kings",
+      "division": "Pacific",
+      "id": "nba-sac",
+      "location": "Sacramento",
+      "logoUrl": null,
+      "name": "Kings"
+    },
+    {
+      "abbreviation": "DAL",
+      "colors": {
+        "primary": "#00538C",
+        "secondary": "#002B5E"
+      },
+      "conference": "Western",
+      "displayName": "Dallas Mavericks",
+      "division": "Southwest",
+      "id": "nba-dal",
+      "location": "Dallas",
+      "logoUrl": null,
+      "name": "Mavericks"
+    },
+    {
+      "abbreviation": "HOU",
+      "colors": {
+        "primary": "#CE1141",
+        "secondary": "#000000"
+      },
+      "conference": "Western",
+      "displayName": "Houston Rockets",
+      "division": "Southwest",
+      "id": "nba-hou",
+      "location": "Houston",
+      "logoUrl": null,
+      "name": "Rockets"
+    },
+    {
+      "abbreviation": "MEM",
+      "colors": {
+        "primary": "#5D76A9",
+        "secondary": "#12173F"
+      },
+      "conference": "Western",
+      "displayName": "Memphis Grizzlies",
+      "division": "Southwest",
+      "id": "nba-mem",
+      "location": "Memphis",
+      "logoUrl": null,
+      "name": "Grizzlies"
+    },
+    {
+      "abbreviation": "NOP",
+      "colors": {
+        "primary": "#0C2340",
+        "secondary": "#C8102E"
+      },
+      "conference": "Western",
+      "displayName": "New Orleans Pelicans",
+      "division": "Southwest",
+      "id": "nba-nop",
+      "location": "New Orleans",
+      "logoUrl": null,
+      "name": "Pelicans"
+    },
+    {
+      "abbreviation": "SAS",
+      "colors": {
+        "primary": "#C4CED4",
+        "secondary": "#000000"
+      },
+      "conference": "Western",
+      "displayName": "San Antonio Spurs",
+      "division": "Southwest",
+      "id": "nba-sas",
+      "location": "San Antonio",
+      "logoUrl": null,
+      "name": "Spurs"
+    }
+  ]
+}
