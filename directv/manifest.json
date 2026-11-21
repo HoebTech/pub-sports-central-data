@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-17T16:00:00Z",
+  "file": "guide.json",
+  "generatedAt": "2026-10-17T16:00:00Z",
+  "isSample": true,
+  "kind": "directv-guide-manifest",
+  "provider": {
+    "lastAttemptAt": "2026-10-17T16:00:00Z",
+    "lastSuccessAt": "2026-10-17T16:00:00Z",
+    "message": null,
+    "provider": "sample",
+    "state": "ok"
+  },
+  "schemaVersion": 1,
+  "staleAfterMinutes": 180,
+  "version": "e513e9d8811562bb"
+}
