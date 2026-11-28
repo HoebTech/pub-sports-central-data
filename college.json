@@ -1,0 +1,3349 @@
+{
+  "generatedAt": "2026-10-17T21:10:00Z",
+  "isSample": true,
+  "league": {
+    "key": "college",
+    "name": "College Football",
+    "shortName": "NCAAF"
+  },
+  "playoffs": null,
+  "provider": {
+    "lastAttemptAt": "2026-10-17T21:10:00Z",
+    "lastSuccessAt": "2026-10-17T21:10:00Z",
+    "message": "Sample data for development and layout testing — not live results",
+    "provider": "sample",
+    "state": "ok"
+  },
+  "rankings": [
+    {
+      "entries": [
+        {
+          "firstPlaceVotes": 30,
+          "points": 1595,
+          "previousRank": 3,
+          "rank": 1,
+          "record": "5-0",
+          "teamId": "college-iu"
+        },
+        {
+          "firstPlaceVotes": 25,
+          "points": 1579,
+          "previousRank": 1,
+          "rank": 2,
+          "record": "5-0",
+          "teamId": "college-tamu"
+        },
+        {
+          "firstPlaceVotes": 10,
+          "points": 1496,
+          "previousRank": 4,
+          "rank": 3,
+          "record": "6-0",
+          "teamId": "college-gt"
+        },
+        {
+          "firstPlaceVotes": 1,
+          "points": 1469,
+          "previousRank": 5,
+          "rank": 4,
+          "record": "5-1",
+          "teamId": "college-osu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1360,
+          "previousRank": 7,
+          "rank": 5,
+          "record": "5-1",
+          "teamId": "college-uga"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1335,
+          "previousRank": 9,
+          "rank": 6,
+          "record": "5-0",
+          "teamId": "college-asu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1283,
+          "previousRank": 10,
+          "rank": 7,
+          "record": "5-1",
+          "teamId": "college-nd"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1153,
+          "previousRank": 8,
+          "rank": 8,
+          "record": "5-0",
+          "teamId": "college-jmu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1137,
+          "previousRank": 12,
+          "rank": 9,
+          "record": "4-1",
+          "teamId": "college-tex"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 999,
+          "previousRank": 13,
+          "rank": 10,
+          "record": "4-1",
+          "teamId": "college-psu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 995,
+          "previousRank": 14,
+          "rank": 11,
+          "record": "5-0",
+          "teamId": "college-unlv"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 917,
+          "previousRank": 2,
+          "rank": 12,
+          "record": "4-1",
+          "teamId": "college-mia"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 787,
+          "previousRank": 23,
+          "rank": 13,
+          "record": "5-1",
+          "teamId": "college-wash"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 753,
+          "previousRank": 21,
+          "rank": 14,
+          "record": "5-1",
+          "teamId": "college-ill"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 710,
+          "previousRank": 25,
+          "rank": 15,
+          "record": "4-1",
+          "teamId": "college-ttu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 584,
+          "previousRank": null,
+          "rank": 16,
+          "record": "4-1",
+          "teamId": "college-usc"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 543,
+          "previousRank": null,
+          "rank": 17,
+          "record": "5-1",
+          "teamId": "college-bsu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 537,
+          "previousRank": 15,
+          "rank": 18,
+          "record": "3-1",
+          "teamId": "college-ala"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 526,
+          "previousRank": null,
+          "rank": 19,
+          "record": "5-1",
+          "teamId": "college-sc"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 468,
+          "previousRank": 6,
+          "rank": 20,
+          "record": "5-1",
+          "teamId": "college-ksu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 350,
+          "previousRank": 22,
+          "rank": 21,
+          "record": "4-1",
+          "teamId": "college-miz"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 313,
+          "previousRank": null,
+          "rank": 22,
+          "record": "4-2",
+          "teamId": "college-ore"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 177,
+          "previousRank": null,
+          "rank": 23,
+          "record": "5-1",
+          "teamId": "college-ariz"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 166,
+          "previousRank": 11,
+          "rank": 24,
+          "record": "5-1",
+          "teamId": "college-uva"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 122,
+          "previousRank": null,
+          "rank": 25,
+          "record": "4-1",
+          "teamId": "college-fsu"
+        }
+      ],
+      "id": "ap-top-25",
+      "label": "Week 8",
+      "name": "AP Top 25",
+      "publishedAt": "2026-10-11T18:00:00Z"
+    },
+    {
+      "entries": [
+        {
+          "firstPlaceVotes": 32,
+          "points": 1549,
+          "previousRank": 3,
+          "rank": 1,
+          "record": "5-0",
+          "teamId": "college-iu"
+        },
+        {
+          "firstPlaceVotes": 23,
+          "points": 1529,
+          "previousRank": 1,
+          "rank": 2,
+          "record": "5-0",
+          "teamId": "college-tamu"
+        },
+        {
+          "firstPlaceVotes": 7,
+          "points": 1452,
+          "previousRank": 4,
+          "rank": 3,
+          "record": "6-0",
+          "teamId": "college-gt"
+        },
+        {
+          "firstPlaceVotes": 2,
+          "points": 1420,
+          "previousRank": 5,
+          "rank": 4,
+          "record": "5-1",
+          "teamId": "college-osu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1330,
+          "previousRank": 8,
+          "rank": 5,
+          "record": "5-1",
+          "teamId": "college-uga"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1311,
+          "previousRank": 9,
+          "rank": 6,
+          "record": "5-0",
+          "teamId": "college-asu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1232,
+          "previousRank": 10,
+          "rank": 7,
+          "record": "5-1",
+          "teamId": "college-nd"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1102,
+          "previousRank": 12,
+          "rank": 8,
+          "record": "4-1",
+          "teamId": "college-tex"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 1101,
+          "previousRank": 7,
+          "rank": 9,
+          "record": "5-0",
+          "teamId": "college-jmu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 971,
+          "previousRank": 13,
+          "rank": 10,
+          "record": "5-0",
+          "teamId": "college-unlv"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 965,
+          "previousRank": 14,
+          "rank": 11,
+          "record": "4-1",
+          "teamId": "college-psu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 908,
+          "previousRank": 2,
+          "rank": 12,
+          "record": "4-1",
+          "teamId": "college-mia"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 733,
+          "previousRank": 23,
+          "rank": 13,
+          "record": "5-1",
+          "teamId": "college-ill"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 723,
+          "previousRank": 22,
+          "rank": 14,
+          "record": "5-1",
+          "teamId": "college-wash"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 676,
+          "previousRank": 25,
+          "rank": 15,
+          "record": "4-1",
+          "teamId": "college-ttu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 602,
+          "previousRank": 16,
+          "rank": 16,
+          "record": "3-1",
+          "teamId": "college-ala"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 558,
+          "previousRank": null,
+          "rank": 17,
+          "record": "4-1",
+          "teamId": "college-usc"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 498,
+          "previousRank": 6,
+          "rank": 18,
+          "record": "5-1",
+          "teamId": "college-ksu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 486,
+          "previousRank": null,
+          "rank": 19,
+          "record": "5-1",
+          "teamId": "college-bsu"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 452,
+          "previousRank": null,
+          "rank": 20,
+          "record": "5-1",
+          "teamId": "college-sc"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 338,
+          "previousRank": null,
+          "rank": 21,
+          "record": "4-2",
+          "teamId": "college-ore"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 315,
+          "previousRank": 21,
+          "rank": 22,
+          "record": "4-1",
+          "teamId": "college-miz"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 180,
+          "previousRank": null,
+          "rank": 23,
+          "record": "5-1",
+          "teamId": "college-ariz"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 157,
+          "previousRank": 11,
+          "rank": 24,
+          "record": "5-1",
+          "teamId": "college-uva"
+        },
+        {
+          "firstPlaceVotes": 0,
+          "points": 106,
+          "previousRank": null,
+          "rank": 25,
+          "record": "4-1",
+          "teamId": "college-fsu"
+        }
+      ],
+      "id": "coaches-poll",
+      "label": "Week 8",
+      "name": "Coaches Poll",
+      "publishedAt": "2026-10-11T16:30:00Z"
+    }
+  ],
+  "schedule": {
+    "games": [
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2",
+          "score": 31,
+          "teamId": "college-isu"
+        },
+        "broadcasts": [
+          "ESPN2"
+        ],
+        "home": {
+          "rank": 20,
+          "record": "5-2",
+          "score": 21,
+          "teamId": "college-ksu"
+        },
+        "id": "college-sample-20261017-isu-ksu",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T16:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Bill Snyder Family Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2",
+          "score": 31,
+          "teamId": "college-miss"
+        },
+        "broadcasts": [
+          "ESPN"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-3",
+          "score": 7,
+          "teamId": "college-ark"
+        },
+        "id": "college-sample-20261017-miss-ark",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T16:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Donald W. Reynolds Razorback Stadium"
+      },
+      {
+        "away": {
+          "rank": 4,
+          "record": "6-1",
+          "score": 34,
+          "teamId": "college-osu"
+        },
+        "broadcasts": [
+          "Big Ten Network"
+        ],
+        "home": {
+          "rank": null,
+          "record": "1-5",
+          "score": 23,
+          "teamId": "college-wis"
+        },
+        "id": "college-sample-20261017-osu-wis",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T16:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Camp Randall Stadium"
+      },
+      {
+        "away": {
+          "rank": 10,
+          "record": "4-2",
+          "score": 13,
+          "teamId": "college-psu"
+        },
+        "broadcasts": [
+          "FOX"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-3",
+          "score": 31,
+          "teamId": "college-iowa"
+        },
+        "id": "college-sample-20261017-psu-iowa",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T16:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Kinnick Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "1-6",
+          "score": 23,
+          "teamId": "college-wake"
+        },
+        "broadcasts": [
+          "ACC Network"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-2",
+          "score": 34,
+          "teamId": "college-ncst"
+        },
+        "id": "college-sample-20261017-wake-ncst",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T16:00:00Z",
+        "status": "final",
+        "statusDetail": "Final",
+        "timeTbd": false,
+        "venue": "Carter-Finley Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "4-2",
+          "score": 3,
+          "teamId": "college-duke"
+        },
+        "broadcasts": [
+          "ESPN"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-2",
+          "score": 0,
+          "teamId": "college-clem"
+        },
+        "id": "college-sample-20261017-duke-clem",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T19:30:00Z",
+        "status": "in_progress",
+        "statusDetail": "Q2 0:24",
+        "timeTbd": false,
+        "venue": "Memorial Stadium"
+      },
+      {
+        "away": {
+          "rank": 1,
+          "record": "5-0",
+          "score": 3,
+          "teamId": "college-iu"
+        },
+        "broadcasts": [
+          "CBS"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-2",
+          "score": 21,
+          "teamId": "college-mich"
+        },
+        "id": "college-sample-20261017-iu-mich",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T19:30:00Z",
+        "status": "halftime",
+        "statusDetail": "Halftime",
+        "timeTbd": false,
+        "venue": "Michigan Stadium"
+      },
+      {
+        "away": {
+          "rank": 9,
+          "record": "4-1",
+          "score": 28,
+          "teamId": "college-tex"
+        },
+        "broadcasts": [
+          "ABC"
+        ],
+        "home": {
+          "rank": 5,
+          "record": "5-1",
+          "score": 24,
+          "teamId": "college-uga"
+        },
+        "id": "college-sample-20261017-tex-uga",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T19:30:00Z",
+        "status": "in_progress",
+        "statusDetail": "Q3 12:40",
+        "timeTbd": false,
+        "venue": "Sanford Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "2-4",
+          "score": 10,
+          "teamId": "college-utah"
+        },
+        "broadcasts": [
+          "FOX"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-2",
+          "score": 3,
+          "teamId": "college-byu"
+        },
+        "id": "college-sample-20261017-utah-byu",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T19:30:00Z",
+        "status": "in_progress",
+        "statusDetail": "Q3 9:02",
+        "timeTbd": false,
+        "venue": "LaVell Edwards Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "2-4",
+          "score": 13,
+          "teamId": "college-unc"
+        },
+        "broadcasts": [
+          "ACC Network"
+        ],
+        "home": {
+          "rank": 24,
+          "record": "5-1",
+          "score": 17,
+          "teamId": "college-uva"
+        },
+        "id": "college-sample-20261017-unc-uva",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T20:00:00Z",
+        "status": "in_progress",
+        "statusDetail": "Q2 3:51",
+        "timeTbd": false,
+        "venue": "Scott Stadium"
+      },
+      {
+        "away": {
+          "rank": null,
+          "record": "3-1",
+          "score": null,
+          "teamId": "college-mem"
+        },
+        "broadcasts": [
+          "ESPN2"
+        ],
+        "home": {
+          "rank": null,
+          "record": "3-3",
+          "score": null,
+          "teamId": "college-tul"
+        },
+        "id": "college-sample-20261017-mem-tul",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T23:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Yulman Stadium"
+      },
+      {
+        "away": {
+          "rank": 18,
+          "record": "3-1",
+          "score": null,
+          "teamId": "college-ala"
+        },
+        "broadcasts": [
+          "ABC"
+        ],
+        "home": {
+          "rank": null,
+          "record": "2-3",
+          "score": null,
+          "teamId": "college-lsu"
+        },
+        "id": "college-sample-20261017-ala-lsu",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Tiger Stadium"
+      },
+      {
+        "away": {
+          "rank": 25,
+          "record": "4-1",
+          "score": null,
+          "teamId": "college-fsu"
+        },
+        "broadcasts": [
+          "ESPN"
+        ],
+        "home": {
+          "rank": 12,
+          "record": "4-1",
+          "score": null,
+          "teamId": "college-mia"
+        },
+        "id": "college-sample-20261017-fsu-mia",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Hard Rock Stadium"
+      },
+      {
+        "away": {
+          "rank": 22,
+          "record": "4-2",
+          "score": null,
+          "teamId": "college-ore"
+        },
+        "broadcasts": [
+          "FOX"
+        ],
+        "home": {
+          "rank": 13,
+          "record": "5-1",
+          "score": null,
+          "teamId": "college-wash"
+        },
+        "id": "college-sample-20261017-ore-wash",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Husky Stadium"
+      },
+      {
+        "away": {
+          "rank": 16,
+          "record": "4-1",
+          "score": null,
+          "teamId": "college-usc"
+        },
+        "broadcasts": [
+          "NBC",
+          "Peacock"
+        ],
+        "home": {
+          "rank": 7,
+          "record": "5-1",
+          "score": null,
+          "teamId": "college-nd"
+        },
+        "id": "college-sample-20261017-usc-nd",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T23:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Notre Dame Stadium"
+      },
+      {
+        "away": {
+          "rank": 2,
+          "record": "5-0",
+          "score": null,
+          "teamId": "college-tamu"
+        },
+        "broadcasts": [
+          "SEC Network"
+        ],
+        "home": {
+          "rank": null,
+          "record": "4-2",
+          "score": null,
+          "teamId": "college-ou"
+        },
+        "id": "college-sample-20261017-tamu-ou",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-17T23:45:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Gaylord Family Oklahoma Memorial Stadium"
+      },
+      {
+        "away": {
+          "rank": 17,
+          "record": "5-1",
+          "score": null,
+          "teamId": "college-bsu"
+        },
+        "broadcasts": [
+          "FS1"
+        ],
+        "home": {
+          "rank": 11,
+          "record": "5-0",
+          "score": null,
+          "teamId": "college-unlv"
+        },
+        "id": "college-sample-20261018-bsu-unlv",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-18T02:00:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Allegiant Stadium"
+      },
+      {
+        "away": {
+          "rank": 15,
+          "record": "4-1",
+          "score": null,
+          "teamId": "college-ttu"
+        },
+        "broadcasts": [
+          "ESPN"
+        ],
+        "home": {
+          "rank": 6,
+          "record": "5-0",
+          "score": null,
+          "teamId": "college-asu"
+        },
+        "id": "college-sample-20261018-ttu-asu",
+        "label": "Week 8",
+        "neutralSite": false,
+        "note": null,
+        "startTime": "2026-10-18T02:30:00Z",
+        "status": "scheduled",
+        "statusDetail": null,
+        "timeTbd": false,
+        "venue": "Mountain America Stadium"
+      }
+    ],
+    "label": "Week 8",
+    "rangeEnd": "2026-10-18T03:59:59Z",
+    "rangeStart": "2026-10-17T04:00:00Z",
+    "updatedAt": "2026-10-17T21:10:00Z"
+  },
+  "schemaVersion": 1,
+  "season": "2026",
+  "sport": "college",
+  "standings": {
+    "groups": [
+      {
+        "id": "acc",
+        "name": "ACC",
+        "parent": null,
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "4-0",
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 81,
+            "pointsFor": 214,
+            "rank": 1,
+            "stats": {
+              "apRank": 3,
+              "awayRecord": "2-0",
+              "homeRecord": "4-0"
+            },
+            "streak": "W6",
+            "teamId": "college-gt",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 6
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "4-0",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 101,
+            "pointsFor": 203,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "3-1",
+              "homeRecord": "2-0"
+            },
+            "streak": "W5",
+            "teamId": "college-vt",
+            "ties": null,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 97,
+            "pointsFor": 197,
+            "rank": 3,
+            "stats": {
+              "apRank": 24,
+              "awayRecord": "1-0",
+              "homeRecord": "4-1"
+            },
+            "streak": "L1",
+            "teamId": "college-uva",
+            "ties": null,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 67,
+            "pointsFor": 180,
+            "rank": 4,
+            "stats": {
+              "apRank": 25,
+              "awayRecord": "1-0",
+              "homeRecord": "3-1"
+            },
+            "streak": "W2",
+            "teamId": "college-fsu",
+            "ties": null,
+            "winPct": 0.8,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 58,
+            "pointsFor": 170,
+            "rank": 5,
+            "stats": {
+              "apRank": 12,
+              "awayRecord": "2-1",
+              "homeRecord": "2-0"
+            },
+            "streak": "L1",
+            "teamId": "college-mia",
+            "ties": null,
+            "winPct": 0.8,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 120,
+            "pointsFor": 117,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "1-0",
+              "homeRecord": "1-3"
+            },
+            "streak": "W1",
+            "teamId": "college-cal",
+            "ties": null,
+            "winPct": 0.4,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 109,
+            "pointsFor": 180,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "2-1",
+              "homeRecord": "2-1"
+            },
+            "streak": "L1",
+            "teamId": "college-clem",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 113,
+            "pointsFor": 185,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "1-2",
+              "homeRecord": "3-0"
+            },
+            "streak": "W3",
+            "teamId": "college-duke",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 121,
+            "pointsFor": 191,
+            "rank": 9,
+            "stats": {
+              "awayRecord": "0-1",
+              "homeRecord": "4-1"
+            },
+            "streak": "W2",
+            "teamId": "college-ncst",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 119,
+            "pointsFor": 172,
+            "rank": 10,
+            "stats": {
+              "awayRecord": "3-1",
+              "homeRecord": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "college-smu",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 159,
+            "pointsFor": 117,
+            "rank": 11,
+            "stats": {
+              "awayRecord": "1-2",
+              "homeRecord": "1-2"
+            },
+            "streak": "W1",
+            "teamId": "college-unc",
+            "ties": null,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 117,
+            "pointsFor": 130,
+            "rank": 12,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "1-2"
+            },
+            "streak": "W1",
+            "teamId": "college-lou",
+            "ties": null,
+            "winPct": 0.4,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 96,
+            "pointsFor": 155,
+            "rank": 13,
+            "stats": {
+              "awayRecord": "1-2",
+              "homeRecord": "2-0"
+            },
+            "streak": "L2",
+            "teamId": "college-pitt",
+            "ties": null,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 96,
+            "pointsFor": 136,
+            "rank": 14,
+            "stats": {
+              "awayRecord": "1-2",
+              "homeRecord": "2-0"
+            },
+            "streak": "L2",
+            "teamId": "college-syr",
+            "ties": null,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 218,
+            "pointsFor": 153,
+            "rank": 15,
+            "stats": {
+              "awayRecord": "0-1",
+              "homeRecord": "2-3"
+            },
+            "streak": "L3",
+            "teamId": "college-stan",
+            "ties": null,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-5",
+            "gamesBack": null,
+            "losses": 6,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 200,
+            "pointsFor": 153,
+            "rank": 16,
+            "stats": {
+              "awayRecord": "1-3",
+              "homeRecord": "0-3"
+            },
+            "streak": "L4",
+            "teamId": "college-wake",
+            "ties": null,
+            "winPct": 0.143,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-5",
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 151,
+            "pointsFor": 118,
+            "rank": 17,
+            "stats": {
+              "awayRecord": "0-1",
+              "homeRecord": "1-4"
+            },
+            "streak": "L5",
+            "teamId": "college-bc",
+            "ties": null,
+            "winPct": 0.167,
+            "wins": 1
+          }
+        ]
+      },
+      {
+        "id": "sec",
+        "name": "SEC",
+        "parent": null,
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 85,
+            "pointsFor": 153,
+            "rank": 1,
+            "stats": {
+              "apRank": 2,
+              "awayRecord": "2-0",
+              "homeRecord": "3-0"
+            },
+            "streak": "W5",
+            "teamId": "college-tamu",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "4-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 132,
+            "pointsFor": 149,
+            "rank": 2,
+            "stats": {
+              "awayRecord": "2-1",
+              "homeRecord": "2-1"
+            },
+            "streak": "W1",
+            "teamId": "college-miss",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 112,
+            "pointsFor": 169,
+            "rank": 3,
+            "stats": {
+              "apRank": 5,
+              "awayRecord": "2-1",
+              "homeRecord": "3-0"
+            },
+            "streak": "W3",
+            "teamId": "college-uga",
+            "ties": null,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 126,
+            "pointsFor": 253,
+            "rank": 4,
+            "stats": {
+              "apRank": 19,
+              "awayRecord": "0-0",
+              "homeRecord": "5-1"
+            },
+            "streak": "W3",
+            "teamId": "college-sc",
+            "ties": null,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 54,
+            "pointsFor": 139,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "0-0",
+              "homeRecord": "4-1"
+            },
+            "streak": "W1",
+            "teamId": "college-fla",
+            "ties": null,
+            "winPct": 0.8,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 97,
+            "pointsFor": 153,
+            "rank": 6,
+            "stats": {
+              "awayRecord": "1-0",
+              "homeRecord": "3-2"
+            },
+            "streak": "W1",
+            "teamId": "college-ou",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 95,
+            "pointsFor": 214,
+            "rank": 7,
+            "stats": {
+              "apRank": 21,
+              "awayRecord": "1-1",
+              "homeRecord": "3-0"
+            },
+            "streak": "W1",
+            "teamId": "college-miz",
+            "ties": null,
+            "winPct": 0.8,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 117,
+            "pointsFor": 138,
+            "rank": 8,
+            "stats": {
+              "apRank": 9,
+              "awayRecord": "0-0",
+              "homeRecord": "4-1"
+            },
+            "streak": "W1",
+            "teamId": "college-tex",
+            "ties": null,
+            "winPct": 0.8,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 75,
+            "pointsFor": 136,
+            "rank": 9,
+            "stats": {
+              "apRank": 18,
+              "awayRecord": "2-1",
+              "homeRecord": "1-0"
+            },
+            "streak": "L1",
+            "teamId": "college-ala",
+            "ties": null,
+            "winPct": 0.75,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 89,
+            "pointsFor": 114,
+            "rank": 10,
+            "stats": {
+              "awayRecord": "2-1",
+              "homeRecord": "1-0"
+            },
+            "streak": "L1",
+            "teamId": "college-aub",
+            "ties": null,
+            "winPct": 0.75,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 52,
+            "pointsFor": 142,
+            "rank": 11,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "2-0"
+            },
+            "streak": "W1",
+            "teamId": "college-msst",
+            "ties": null,
+            "winPct": 0.75,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 116,
+            "pointsFor": 153,
+            "rank": 12,
+            "stats": {
+              "awayRecord": "0-1",
+              "homeRecord": "3-1"
+            },
+            "streak": "W1",
+            "teamId": "college-uk",
+            "ties": null,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 47,
+            "pointsFor": 146,
+            "rank": 13,
+            "stats": {
+              "awayRecord": "1-2",
+              "homeRecord": "2-0"
+            },
+            "streak": "L1",
+            "teamId": "college-tenn",
+            "ties": null,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 145,
+            "pointsFor": 187,
+            "rank": 14,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "2-2"
+            },
+            "streak": "L3",
+            "teamId": "college-ark",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 149,
+            "pointsFor": 128,
+            "rank": 15,
+            "stats": {
+              "awayRecord": "1-0",
+              "homeRecord": "1-3"
+            },
+            "streak": "L2",
+            "teamId": "college-lsu",
+            "ties": null,
+            "winPct": 0.4,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-5",
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 162,
+            "pointsFor": 146,
+            "rank": 16,
+            "stats": {
+              "awayRecord": "0-4",
+              "homeRecord": "1-1"
+            },
+            "streak": "L5",
+            "teamId": "college-van",
+            "ties": null,
+            "winPct": 0.167,
+            "wins": 1
+          }
+        ]
+      },
+      {
+        "id": "big-ten",
+        "name": "Big Ten",
+        "parent": null,
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "4-0",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 137,
+            "pointsFor": 198,
+            "rank": 1,
+            "stats": {
+              "apRank": 14,
+              "awayRecord": "1-0",
+              "homeRecord": "4-1"
+            },
+            "streak": "W4",
+            "teamId": "college-ill",
+            "ties": null,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "4-0",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 101,
+            "pointsFor": 170,
+            "rank": 2,
+            "stats": {
+              "apRank": 13,
+              "awayRecord": "5-0",
+              "homeRecord": "0-1"
+            },
+            "streak": "W3",
+            "teamId": "college-wash",
+            "ties": null,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-0",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 79,
+            "pointsFor": 131,
+            "rank": 3,
+            "stats": {
+              "apRank": 16,
+              "awayRecord": "0-0",
+              "homeRecord": "4-1"
+            },
+            "streak": "W4",
+            "teamId": "college-usc",
+            "ties": null,
+            "winPct": 0.8,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-0",
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 61,
+            "pointsFor": 230,
+            "rank": 4,
+            "stats": {
+              "apRank": 1,
+              "awayRecord": "0-0",
+              "homeRecord": "5-0"
+            },
+            "streak": "W5",
+            "teamId": "college-iu",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "4-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 140,
+            "pointsFor": 230,
+            "rank": 5,
+            "stats": {
+              "apRank": 4,
+              "awayRecord": "3-1",
+              "homeRecord": "3-0"
+            },
+            "streak": "W2",
+            "teamId": "college-osu",
+            "ties": null,
+            "winPct": 0.857,
+            "wins": 6
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 97,
+            "pointsFor": 165,
+            "rank": 6,
+            "stats": {
+              "apRank": 10,
+              "awayRecord": "1-2",
+              "homeRecord": "3-0"
+            },
+            "streak": "L1",
+            "teamId": "college-psu",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 117,
+            "pointsFor": 166,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "0-0",
+              "homeRecord": "3-2"
+            },
+            "streak": "L1",
+            "teamId": "college-rutg",
+            "ties": null,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 116,
+            "pointsFor": 171,
+            "rank": 8,
+            "stats": {
+              "apRank": 22,
+              "awayRecord": "2-1",
+              "homeRecord": "2-1"
+            },
+            "streak": "W3",
+            "teamId": "college-ore",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 144,
+            "pointsFor": 157,
+            "rank": 9,
+            "stats": {
+              "awayRecord": "2-1",
+              "homeRecord": "2-1"
+            },
+            "streak": "W2",
+            "teamId": "college-minn",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 128,
+            "pointsFor": 166,
+            "rank": 10,
+            "stats": {
+              "awayRecord": "2-2",
+              "homeRecord": "1-1"
+            },
+            "streak": "L2",
+            "teamId": "college-msu",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 122,
+            "pointsFor": 144,
+            "rank": 11,
+            "stats": {
+              "awayRecord": "1-3",
+              "homeRecord": "2-0"
+            },
+            "streak": "W1",
+            "teamId": "college-iowa",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 103,
+            "pointsFor": 209,
+            "rank": 12,
+            "stats": {
+              "awayRecord": "0-1",
+              "homeRecord": "3-2"
+            },
+            "streak": "L2",
+            "teamId": "college-ucla",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 168,
+            "pointsFor": 211,
+            "rank": 13,
+            "stats": {
+              "awayRecord": "0-2",
+              "homeRecord": "3-1"
+            },
+            "streak": "L3",
+            "teamId": "college-pur",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 158,
+            "pointsFor": 89,
+            "rank": 14,
+            "stats": {
+              "awayRecord": "1-3",
+              "homeRecord": "1-1"
+            },
+            "streak": "W1",
+            "teamId": "college-nu",
+            "ties": null,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 103,
+            "pointsFor": 210,
+            "rank": 15,
+            "stats": {
+              "awayRecord": "0-0",
+              "homeRecord": "3-2"
+            },
+            "streak": "L2",
+            "teamId": "college-mich",
+            "ties": null,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 153,
+            "pointsFor": 92,
+            "rank": 16,
+            "stats": {
+              "awayRecord": "0-2",
+              "homeRecord": "1-2"
+            },
+            "streak": "L4",
+            "teamId": "college-md",
+            "ties": null,
+            "winPct": 0.2,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 140,
+            "pointsFor": 91,
+            "rank": 17,
+            "stats": {
+              "awayRecord": "0-2",
+              "homeRecord": "1-2"
+            },
+            "streak": "L3",
+            "teamId": "college-neb",
+            "ties": null,
+            "winPct": 0.2,
+            "wins": 1
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-5",
+            "gamesBack": null,
+            "losses": 5,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 179,
+            "pointsFor": 137,
+            "rank": 18,
+            "stats": {
+              "awayRecord": "0-2",
+              "homeRecord": "1-3"
+            },
+            "streak": "L5",
+            "teamId": "college-wis",
+            "ties": null,
+            "winPct": 0.167,
+            "wins": 1
+          }
+        ]
+      },
+      {
+        "id": "big-12",
+        "name": "Big 12",
+        "parent": null,
+        "rows": [
+          {
+            "clinch": null,
+            "conferenceRecord": "3-0",
+            "gamesBack": null,
+            "losses": 0,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 82,
+            "pointsFor": 183,
+            "rank": 1,
+            "stats": {
+              "apRank": 6,
+              "awayRecord": "2-0",
+              "homeRecord": "3-0"
+            },
+            "streak": "W5",
+            "teamId": "college-asu",
+            "ties": null,
+            "winPct": 1.0,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-0",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 96,
+            "pointsFor": 158,
+            "rank": 2,
+            "stats": {
+              "apRank": 15,
+              "awayRecord": "2-1",
+              "homeRecord": "2-0"
+            },
+            "streak": "W4",
+            "teamId": "college-ttu",
+            "ties": null,
+            "winPct": 0.8,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "3-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 119,
+            "pointsFor": 167,
+            "rank": 3,
+            "stats": {
+              "awayRecord": "2-1",
+              "homeRecord": "2-1"
+            },
+            "streak": "W2",
+            "teamId": "college-isu",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 139,
+            "pointsFor": 192,
+            "rank": 4,
+            "stats": {
+              "awayRecord": "0-1",
+              "homeRecord": "4-1"
+            },
+            "streak": "W2",
+            "teamId": "college-colo",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 93,
+            "pointsFor": 154,
+            "rank": 5,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "2-1"
+            },
+            "streak": "W2",
+            "teamId": "college-byu",
+            "ties": null,
+            "winPct": 0.6,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 111,
+            "pointsFor": 227,
+            "rank": 6,
+            "stats": {
+              "apRank": 20,
+              "awayRecord": "0-0",
+              "homeRecord": "5-2"
+            },
+            "streak": "L2",
+            "teamId": "college-ksu",
+            "ties": null,
+            "winPct": 0.714,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 110,
+            "pointsFor": 223,
+            "rank": 7,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "3-1"
+            },
+            "streak": "W1",
+            "teamId": "college-ucf",
+            "ties": null,
+            "winPct": 0.667,
+            "wins": 4
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "2-2",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 170,
+            "pointsFor": 98,
+            "rank": 8,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "1-3"
+            },
+            "streak": "L1",
+            "teamId": "college-ku",
+            "ties": null,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 84,
+            "pointsFor": 231,
+            "rank": 9,
+            "stats": {
+              "apRank": 23,
+              "awayRecord": "1-1",
+              "homeRecord": "4-0"
+            },
+            "streak": "W1",
+            "teamId": "college-ariz",
+            "ties": null,
+            "winPct": 0.833,
+            "wins": 5
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 1,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 74,
+            "pointsFor": 149,
+            "rank": 10,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "2-0"
+            },
+            "streak": "L1",
+            "teamId": "college-tcu",
+            "ties": null,
+            "winPct": 0.75,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-1",
+            "gamesBack": null,
+            "losses": 2,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 69,
+            "pointsFor": 132,
+            "rank": 11,
+            "stats": {
+              "awayRecord": "0-0",
+              "homeRecord": "2-2"
+            },
+            "streak": "L1",
+            "teamId": "college-hou",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 148,
+            "pointsFor": 140,
+            "rank": 12,
+            "stats": {
+              "awayRecord": "1-1",
+              "homeRecord": "2-2"
+            },
+            "streak": "W1",
+            "teamId": "college-bay",
+            "ties": null,
+            "winPct": 0.5,
+            "wins": 3
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-2",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 143,
+            "pointsFor": 175,
+            "rank": 13,
+            "stats": {
+              "awayRecord": "0-4",
+              "homeRecord": "2-0"
+            },
+            "streak": "L1",
+            "teamId": "college-wvu",
+            "ties": null,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "1-3",
+            "gamesBack": null,
+            "losses": 4,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 141,
+            "pointsFor": 93,
+            "rank": 14,
+            "stats": {
+              "awayRecord": "0-1",
+              "homeRecord": "2-3"
+            },
+            "streak": "L2",
+            "teamId": "college-utah",
+            "ties": null,
+            "winPct": 0.333,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-3",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 149,
+            "pointsFor": 123,
+            "rank": 15,
+            "stats": {
+              "awayRecord": "2-0",
+              "homeRecord": "0-3"
+            },
+            "streak": "L3",
+            "teamId": "college-cin",
+            "ties": null,
+            "winPct": 0.4,
+            "wins": 2
+          },
+          {
+            "clinch": null,
+            "conferenceRecord": "0-2",
+            "gamesBack": null,
+            "losses": 3,
+            "otLosses": null,
+            "points": null,
+            "pointsAgainst": 109,
+            "pointsFor": 85,
+            "rank": 16,
+            "stats": {
+              "awayRecord": "0-3",
+              "homeRecord": "1-0"
+            },
+            "streak": "L2",
+            "teamId": "college-okst",
+            "ties": null,
+            "winPct": 0.25,
+            "wins": 1
+          }
+        ]
+      }
+    ],
+    "season": "2026",
+    "seasonType": "regular",
+    "updatedAt": "2026-10-17T21:10:00Z"
+  },
+  "teams": [
+    {
+      "abbreviation": "BC",
+      "colors": {
+        "primary": "#98002E",
+        "secondary": "#BC9B6A"
+      },
+      "conference": "ACC",
+      "displayName": "Boston College Eagles",
+      "division": null,
+      "id": "college-bc",
+      "location": "Boston College",
+      "logoUrl": null,
+      "name": "Eagles"
+    },
+    {
+      "abbreviation": "CAL",
+      "colors": {
+        "primary": "#003262",
+        "secondary": "#FDB515"
+      },
+      "conference": "ACC",
+      "displayName": "California Golden Bears",
+      "division": null,
+      "id": "college-cal",
+      "location": "California",
+      "logoUrl": null,
+      "name": "Golden Bears"
+    },
+    {
+      "abbreviation": "CLEM",
+      "colors": {
+        "primary": "#F56600",
+        "secondary": "#522D80"
+      },
+      "conference": "ACC",
+      "displayName": "Clemson Tigers",
+      "division": null,
+      "id": "college-clem",
+      "location": "Clemson",
+      "logoUrl": null,
+      "name": "Tigers"
+    },
+    {
+      "abbreviation": "DUKE",
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "ACC",
+      "displayName": "Duke Blue Devils",
+      "division": null,
+      "id": "college-duke",
+      "location": "Duke",
+      "logoUrl": null,
+      "name": "Blue Devils"
+    },
+    {
+      "abbreviation": "FSU",
+      "colors": {
+        "primary": "#782F40",
+        "secondary": "#CEB888"
+      },
+      "conference": "ACC",
+      "displayName": "Florida State Seminoles",
+      "division": null,
+      "id": "college-fsu",
+      "location": "Florida State",
+      "logoUrl": null,
+      "name": "Seminoles"
+    },
+    {
+      "abbreviation": "GT",
+      "colors": {
+        "primary": "#B3A369",
+        "secondary": "#003057"
+      },
+      "conference": "ACC",
+      "displayName": "Georgia Tech Yellow Jackets",
+      "division": null,
+      "id": "college-gt",
+      "location": "Georgia Tech",
+      "logoUrl": null,
+      "name": "Yellow Jackets"
+    },
+    {
+      "abbreviation": "LOU",
+      "colors": {
+        "primary": "#AD0000",
+        "secondary": "#000000"
+      },
+      "conference": "ACC",
+      "displayName": "Louisville Cardinals",
+      "division": null,
+      "id": "college-lou",
+      "location": "Louisville",
+      "logoUrl": null,
+      "name": "Cardinals"
+    },
+    {
+      "abbreviation": "MIA",
+      "colors": {
+        "primary": "#F47321",
+        "secondary": "#005030"
+      },
+      "conference": "ACC",
+      "displayName": "Miami Hurricanes",
+      "division": null,
+      "id": "college-mia",
+      "location": "Miami",
+      "logoUrl": null,
+      "name": "Hurricanes"
+    },
+    {
+      "abbreviation": "NCST",
+      "colors": {
+        "primary": "#CC0000",
+        "secondary": "#000000"
+      },
+      "conference": "ACC",
+      "displayName": "NC State Wolfpack",
+      "division": null,
+      "id": "college-ncst",
+      "location": "NC State",
+      "logoUrl": null,
+      "name": "Wolfpack"
+    },
+    {
+      "abbreviation": "UNC",
+      "colors": {
+        "primary": "#7BAFD4",
+        "secondary": "#13294B"
+      },
+      "conference": "ACC",
+      "displayName": "North Carolina Tar Heels",
+      "division": null,
+      "id": "college-unc",
+      "location": "North Carolina",
+      "logoUrl": null,
+      "name": "Tar Heels"
+    },
+    {
+      "abbreviation": "PITT",
+      "colors": {
+        "primary": "#003594",
+        "secondary": "#FFB81C"
+      },
+      "conference": "ACC",
+      "displayName": "Pittsburgh Panthers",
+      "division": null,
+      "id": "college-pitt",
+      "location": "Pittsburgh",
+      "logoUrl": null,
+      "name": "Panthers"
+    },
+    {
+      "abbreviation": "SMU",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#C8102E"
+      },
+      "conference": "ACC",
+      "displayName": "SMU Mustangs",
+      "division": null,
+      "id": "college-smu",
+      "location": "SMU",
+      "logoUrl": null,
+      "name": "Mustangs"
+    },
+    {
+      "abbreviation": "STAN",
+      "colors": {
+        "primary": "#8C1515",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "ACC",
+      "displayName": "Stanford Cardinal",
+      "division": null,
+      "id": "college-stan",
+      "location": "Stanford",
+      "logoUrl": null,
+      "name": "Cardinal"
+    },
+    {
+      "abbreviation": "SYR",
+      "colors": {
+        "primary": "#F76900",
+        "secondary": "#002D72"
+      },
+      "conference": "ACC",
+      "displayName": "Syracuse Orange",
+      "division": null,
+      "id": "college-syr",
+      "location": "Syracuse",
+      "logoUrl": null,
+      "name": "Orange"
+    },
+    {
+      "abbreviation": "UVA",
+      "colors": {
+        "primary": "#232D4B",
+        "secondary": "#F84C1E"
+      },
+      "conference": "ACC",
+      "displayName": "Virginia Cavaliers",
+      "division": null,
+      "id": "college-uva",
+      "location": "Virginia",
+      "logoUrl": null,
+      "name": "Cavaliers"
+    },
+    {
+      "abbreviation": "VT",
+      "colors": {
+        "primary": "#630031",
+        "secondary": "#CF4420"
+      },
+      "conference": "ACC",
+      "displayName": "Virginia Tech Hokies",
+      "division": null,
+      "id": "college-vt",
+      "location": "Virginia Tech",
+      "logoUrl": null,
+      "name": "Hokies"
+    },
+    {
+      "abbreviation": "WAKE",
+      "colors": {
+        "primary": "#9E7E38",
+        "secondary": "#000000"
+      },
+      "conference": "ACC",
+      "displayName": "Wake Forest Demon Deacons",
+      "division": null,
+      "id": "college-wake",
+      "location": "Wake Forest",
+      "logoUrl": null,
+      "name": "Demon Deacons"
+    },
+    {
+      "abbreviation": "ALA",
+      "colors": {
+        "primary": "#9E1B32",
+        "secondary": "#828A8F"
+      },
+      "conference": "SEC",
+      "displayName": "Alabama Crimson Tide",
+      "division": null,
+      "id": "college-ala",
+      "location": "Alabama",
+      "logoUrl": null,
+      "name": "Crimson Tide"
+    },
+    {
+      "abbreviation": "ARK",
+      "colors": {
+        "primary": "#9D2235",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "SEC",
+      "displayName": "Arkansas Razorbacks",
+      "division": null,
+      "id": "college-ark",
+      "location": "Arkansas",
+      "logoUrl": null,
+      "name": "Razorbacks"
+    },
+    {
+      "abbreviation": "AUB",
+      "colors": {
+        "primary": "#0C2340",
+        "secondary": "#E87722"
+      },
+      "conference": "SEC",
+      "displayName": "Auburn Tigers",
+      "division": null,
+      "id": "college-aub",
+      "location": "Auburn",
+      "logoUrl": null,
+      "name": "Tigers"
+    },
+    {
+      "abbreviation": "FLA",
+      "colors": {
+        "primary": "#0021A5",
+        "secondary": "#FA4616"
+      },
+      "conference": "SEC",
+      "displayName": "Florida Gators",
+      "division": null,
+      "id": "college-fla",
+      "location": "Florida",
+      "logoUrl": null,
+      "name": "Gators"
+    },
+    {
+      "abbreviation": "UGA",
+      "colors": {
+        "primary": "#BA0C2F",
+        "secondary": "#000000"
+      },
+      "conference": "SEC",
+      "displayName": "Georgia Bulldogs",
+      "division": null,
+      "id": "college-uga",
+      "location": "Georgia",
+      "logoUrl": null,
+      "name": "Bulldogs"
+    },
+    {
+      "abbreviation": "UK",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "SEC",
+      "displayName": "Kentucky Wildcats",
+      "division": null,
+      "id": "college-uk",
+      "location": "Kentucky",
+      "logoUrl": null,
+      "name": "Wildcats"
+    },
+    {
+      "abbreviation": "LSU",
+      "colors": {
+        "primary": "#461D7C",
+        "secondary": "#FDD023"
+      },
+      "conference": "SEC",
+      "displayName": "LSU Tigers",
+      "division": null,
+      "id": "college-lsu",
+      "location": "LSU",
+      "logoUrl": null,
+      "name": "Tigers"
+    },
+    {
+      "abbreviation": "MSST",
+      "colors": {
+        "primary": "#660000",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "SEC",
+      "displayName": "Mississippi State Bulldogs",
+      "division": null,
+      "id": "college-msst",
+      "location": "Mississippi State",
+      "logoUrl": null,
+      "name": "Bulldogs"
+    },
+    {
+      "abbreviation": "MIZ",
+      "colors": {
+        "primary": "#F1B82D",
+        "secondary": "#000000"
+      },
+      "conference": "SEC",
+      "displayName": "Missouri Tigers",
+      "division": null,
+      "id": "college-miz",
+      "location": "Missouri",
+      "logoUrl": null,
+      "name": "Tigers"
+    },
+    {
+      "abbreviation": "OU",
+      "colors": {
+        "primary": "#841617",
+        "secondary": "#FDF9D8"
+      },
+      "conference": "SEC",
+      "displayName": "Oklahoma Sooners",
+      "division": null,
+      "id": "college-ou",
+      "location": "Oklahoma",
+      "logoUrl": null,
+      "name": "Sooners"
+    },
+    {
+      "abbreviation": "MISS",
+      "colors": {
+        "primary": "#CE1126",
+        "secondary": "#14213D"
+      },
+      "conference": "SEC",
+      "displayName": "Ole Miss Rebels",
+      "division": null,
+      "id": "college-miss",
+      "location": "Ole Miss",
+      "logoUrl": null,
+      "name": "Rebels"
+    },
+    {
+      "abbreviation": "SC",
+      "colors": {
+        "primary": "#73000A",
+        "secondary": "#000000"
+      },
+      "conference": "SEC",
+      "displayName": "South Carolina Gamecocks",
+      "division": null,
+      "id": "college-sc",
+      "location": "South Carolina",
+      "logoUrl": null,
+      "name": "Gamecocks"
+    },
+    {
+      "abbreviation": "TENN",
+      "colors": {
+        "primary": "#FF8200",
+        "secondary": "#58595B"
+      },
+      "conference": "SEC",
+      "displayName": "Tennessee Volunteers",
+      "division": null,
+      "id": "college-tenn",
+      "location": "Tennessee",
+      "logoUrl": null,
+      "name": "Volunteers"
+    },
+    {
+      "abbreviation": "TEX",
+      "colors": {
+        "primary": "#BF5700",
+        "secondary": "#333F48"
+      },
+      "conference": "SEC",
+      "displayName": "Texas Longhorns",
+      "division": null,
+      "id": "college-tex",
+      "location": "Texas",
+      "logoUrl": null,
+      "name": "Longhorns"
+    },
+    {
+      "abbreviation": "TAMU",
+      "colors": {
+        "primary": "#500000",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "SEC",
+      "displayName": "Texas A&M Aggies",
+      "division": null,
+      "id": "college-tamu",
+      "location": "Texas A&M",
+      "logoUrl": null,
+      "name": "Aggies"
+    },
+    {
+      "abbreviation": "VAN",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#866D4B"
+      },
+      "conference": "SEC",
+      "displayName": "Vanderbilt Commodores",
+      "division": null,
+      "id": "college-van",
+      "location": "Vanderbilt",
+      "logoUrl": null,
+      "name": "Commodores"
+    },
+    {
+      "abbreviation": "ILL",
+      "colors": {
+        "primary": "#E84A27",
+        "secondary": "#13294B"
+      },
+      "conference": "Big Ten",
+      "displayName": "Illinois Fighting Illini",
+      "division": null,
+      "id": "college-ill",
+      "location": "Illinois",
+      "logoUrl": null,
+      "name": "Fighting Illini"
+    },
+    {
+      "abbreviation": "IU",
+      "colors": {
+        "primary": "#990000",
+        "secondary": "#EEEDEB"
+      },
+      "conference": "Big Ten",
+      "displayName": "Indiana Hoosiers",
+      "division": null,
+      "id": "college-iu",
+      "location": "Indiana",
+      "logoUrl": null,
+      "name": "Hoosiers"
+    },
+    {
+      "abbreviation": "IOWA",
+      "colors": {
+        "primary": "#FFCD00",
+        "secondary": "#000000"
+      },
+      "conference": "Big Ten",
+      "displayName": "Iowa Hawkeyes",
+      "division": null,
+      "id": "college-iowa",
+      "location": "Iowa",
+      "logoUrl": null,
+      "name": "Hawkeyes"
+    },
+    {
+      "abbreviation": "MD",
+      "colors": {
+        "primary": "#E03A3E",
+        "secondary": "#FFD520"
+      },
+      "conference": "Big Ten",
+      "displayName": "Maryland Terrapins",
+      "division": null,
+      "id": "college-md",
+      "location": "Maryland",
+      "logoUrl": null,
+      "name": "Terrapins"
+    },
+    {
+      "abbreviation": "MICH",
+      "colors": {
+        "primary": "#00274C",
+        "secondary": "#FFCB05"
+      },
+      "conference": "Big Ten",
+      "displayName": "Michigan Wolverines",
+      "division": null,
+      "id": "college-mich",
+      "location": "Michigan",
+      "logoUrl": null,
+      "name": "Wolverines"
+    },
+    {
+      "abbreviation": "MSU",
+      "colors": {
+        "primary": "#18453B",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big Ten",
+      "displayName": "Michigan State Spartans",
+      "division": null,
+      "id": "college-msu",
+      "location": "Michigan State",
+      "logoUrl": null,
+      "name": "Spartans"
+    },
+    {
+      "abbreviation": "MINN",
+      "colors": {
+        "primary": "#7A0019",
+        "secondary": "#FFCC33"
+      },
+      "conference": "Big Ten",
+      "displayName": "Minnesota Golden Gophers",
+      "division": null,
+      "id": "college-minn",
+      "location": "Minnesota",
+      "logoUrl": null,
+      "name": "Golden Gophers"
+    },
+    {
+      "abbreviation": "NEB",
+      "colors": {
+        "primary": "#E41C38",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big Ten",
+      "displayName": "Nebraska Cornhuskers",
+      "division": null,
+      "id": "college-neb",
+      "location": "Nebraska",
+      "logoUrl": null,
+      "name": "Cornhuskers"
+    },
+    {
+      "abbreviation": "NU",
+      "colors": {
+        "primary": "#4E2A84",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big Ten",
+      "displayName": "Northwestern Wildcats",
+      "division": null,
+      "id": "college-nu",
+      "location": "Northwestern",
+      "logoUrl": null,
+      "name": "Wildcats"
+    },
+    {
+      "abbreviation": "OSU",
+      "colors": {
+        "primary": "#BB0000",
+        "secondary": "#666666"
+      },
+      "conference": "Big Ten",
+      "displayName": "Ohio State Buckeyes",
+      "division": null,
+      "id": "college-osu",
+      "location": "Ohio State",
+      "logoUrl": null,
+      "name": "Buckeyes"
+    },
+    {
+      "abbreviation": "ORE",
+      "colors": {
+        "primary": "#154733",
+        "secondary": "#FEE123"
+      },
+      "conference": "Big Ten",
+      "displayName": "Oregon Ducks",
+      "division": null,
+      "id": "college-ore",
+      "location": "Oregon",
+      "logoUrl": null,
+      "name": "Ducks"
+    },
+    {
+      "abbreviation": "PSU",
+      "colors": {
+        "primary": "#041E42",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big Ten",
+      "displayName": "Penn State Nittany Lions",
+      "division": null,
+      "id": "college-psu",
+      "location": "Penn State",
+      "logoUrl": null,
+      "name": "Nittany Lions"
+    },
+    {
+      "abbreviation": "PUR",
+      "colors": {
+        "primary": "#CEB888",
+        "secondary": "#000000"
+      },
+      "conference": "Big Ten",
+      "displayName": "Purdue Boilermakers",
+      "division": null,
+      "id": "college-pur",
+      "location": "Purdue",
+      "logoUrl": null,
+      "name": "Boilermakers"
+    },
+    {
+      "abbreviation": "RUTG",
+      "colors": {
+        "primary": "#CC0033",
+        "secondary": "#5F6A72"
+      },
+      "conference": "Big Ten",
+      "displayName": "Rutgers Scarlet Knights",
+      "division": null,
+      "id": "college-rutg",
+      "location": "Rutgers",
+      "logoUrl": null,
+      "name": "Scarlet Knights"
+    },
+    {
+      "abbreviation": "UCLA",
+      "colors": {
+        "primary": "#2D68C4",
+        "secondary": "#F2A900"
+      },
+      "conference": "Big Ten",
+      "displayName": "UCLA Bruins",
+      "division": null,
+      "id": "college-ucla",
+      "location": "UCLA",
+      "logoUrl": null,
+      "name": "Bruins"
+    },
+    {
+      "abbreviation": "USC",
+      "colors": {
+        "primary": "#990000",
+        "secondary": "#FFC72C"
+      },
+      "conference": "Big Ten",
+      "displayName": "USC Trojans",
+      "division": null,
+      "id": "college-usc",
+      "location": "USC",
+      "logoUrl": null,
+      "name": "Trojans"
+    },
+    {
+      "abbreviation": "WASH",
+      "colors": {
+        "primary": "#4B2E83",
+        "secondary": "#B7A57A"
+      },
+      "conference": "Big Ten",
+      "displayName": "Washington Huskies",
+      "division": null,
+      "id": "college-wash",
+      "location": "Washington",
+      "logoUrl": null,
+      "name": "Huskies"
+    },
+    {
+      "abbreviation": "WIS",
+      "colors": {
+        "primary": "#C5050C",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big Ten",
+      "displayName": "Wisconsin Badgers",
+      "division": null,
+      "id": "college-wis",
+      "location": "Wisconsin",
+      "logoUrl": null,
+      "name": "Badgers"
+    },
+    {
+      "abbreviation": "ARIZ",
+      "colors": {
+        "primary": "#CC0033",
+        "secondary": "#003366"
+      },
+      "conference": "Big 12",
+      "displayName": "Arizona Wildcats",
+      "division": null,
+      "id": "college-ariz",
+      "location": "Arizona",
+      "logoUrl": null,
+      "name": "Wildcats"
+    },
+    {
+      "abbreviation": "ASU",
+      "colors": {
+        "primary": "#8C1D40",
+        "secondary": "#FFC627"
+      },
+      "conference": "Big 12",
+      "displayName": "Arizona State Sun Devils",
+      "division": null,
+      "id": "college-asu",
+      "location": "Arizona State",
+      "logoUrl": null,
+      "name": "Sun Devils"
+    },
+    {
+      "abbreviation": "BAY",
+      "colors": {
+        "primary": "#154734",
+        "secondary": "#FFB81C"
+      },
+      "conference": "Big 12",
+      "displayName": "Baylor Bears",
+      "division": null,
+      "id": "college-bay",
+      "location": "Baylor",
+      "logoUrl": null,
+      "name": "Bears"
+    },
+    {
+      "abbreviation": "BYU",
+      "colors": {
+        "primary": "#002E5D",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big 12",
+      "displayName": "BYU Cougars",
+      "division": null,
+      "id": "college-byu",
+      "location": "BYU",
+      "logoUrl": null,
+      "name": "Cougars"
+    },
+    {
+      "abbreviation": "CIN",
+      "colors": {
+        "primary": "#E00122",
+        "secondary": "#000000"
+      },
+      "conference": "Big 12",
+      "displayName": "Cincinnati Bearcats",
+      "division": null,
+      "id": "college-cin",
+      "location": "Cincinnati",
+      "logoUrl": null,
+      "name": "Bearcats"
+    },
+    {
+      "abbreviation": "COLO",
+      "colors": {
+        "primary": "#CFB87C",
+        "secondary": "#000000"
+      },
+      "conference": "Big 12",
+      "displayName": "Colorado Buffaloes",
+      "division": null,
+      "id": "college-colo",
+      "location": "Colorado",
+      "logoUrl": null,
+      "name": "Buffaloes"
+    },
+    {
+      "abbreviation": "HOU",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big 12",
+      "displayName": "Houston Cougars",
+      "division": null,
+      "id": "college-hou",
+      "location": "Houston",
+      "logoUrl": null,
+      "name": "Cougars"
+    },
+    {
+      "abbreviation": "ISU",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#F1BE48"
+      },
+      "conference": "Big 12",
+      "displayName": "Iowa State Cyclones",
+      "division": null,
+      "id": "college-isu",
+      "location": "Iowa State",
+      "logoUrl": null,
+      "name": "Cyclones"
+    },
+    {
+      "abbreviation": "KU",
+      "colors": {
+        "primary": "#0051BA",
+        "secondary": "#E8000D"
+      },
+      "conference": "Big 12",
+      "displayName": "Kansas Jayhawks",
+      "division": null,
+      "id": "college-ku",
+      "location": "Kansas",
+      "logoUrl": null,
+      "name": "Jayhawks"
+    },
+    {
+      "abbreviation": "KSU",
+      "colors": {
+        "primary": "#512888",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big 12",
+      "displayName": "Kansas State Wildcats",
+      "division": null,
+      "id": "college-ksu",
+      "location": "Kansas State",
+      "logoUrl": null,
+      "name": "Wildcats"
+    },
+    {
+      "abbreviation": "OKST",
+      "colors": {
+        "primary": "#FF7300",
+        "secondary": "#000000"
+      },
+      "conference": "Big 12",
+      "displayName": "Oklahoma State Cowboys",
+      "division": null,
+      "id": "college-okst",
+      "location": "Oklahoma State",
+      "logoUrl": null,
+      "name": "Cowboys"
+    },
+    {
+      "abbreviation": "TCU",
+      "colors": {
+        "primary": "#4D1979",
+        "secondary": "#A3A9AC"
+      },
+      "conference": "Big 12",
+      "displayName": "TCU Horned Frogs",
+      "division": null,
+      "id": "college-tcu",
+      "location": "TCU",
+      "logoUrl": null,
+      "name": "Horned Frogs"
+    },
+    {
+      "abbreviation": "TTU",
+      "colors": {
+        "primary": "#CC0000",
+        "secondary": "#000000"
+      },
+      "conference": "Big 12",
+      "displayName": "Texas Tech Red Raiders",
+      "division": null,
+      "id": "college-ttu",
+      "location": "Texas Tech",
+      "logoUrl": null,
+      "name": "Red Raiders"
+    },
+    {
+      "abbreviation": "UCF",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#BA9B37"
+      },
+      "conference": "Big 12",
+      "displayName": "UCF Knights",
+      "division": null,
+      "id": "college-ucf",
+      "location": "UCF",
+      "logoUrl": null,
+      "name": "Knights"
+    },
+    {
+      "abbreviation": "UTAH",
+      "colors": {
+        "primary": "#CC0000",
+        "secondary": "#FFFFFF"
+      },
+      "conference": "Big 12",
+      "displayName": "Utah Utes",
+      "division": null,
+      "id": "college-utah",
+      "location": "Utah",
+      "logoUrl": null,
+      "name": "Utes"
+    },
+    {
+      "abbreviation": "WVU",
+      "colors": {
+        "primary": "#002855",
+        "secondary": "#EAAA00"
+      },
+      "conference": "Big 12",
+      "displayName": "West Virginia Mountaineers",
+      "division": null,
+      "id": "college-wvu",
+      "location": "West Virginia",
+      "logoUrl": null,
+      "name": "Mountaineers"
+    },
+    {
+      "abbreviation": "ND",
+      "colors": {
+        "primary": "#0C2340",
+        "secondary": "#C99700"
+      },
+      "conference": "FBS Independents",
+      "displayName": "Notre Dame Fighting Irish",
+      "division": null,
+      "id": "college-nd",
+      "location": "Notre Dame",
+      "logoUrl": null,
+      "name": "Fighting Irish"
+    },
+    {
+      "abbreviation": "BSU",
+      "colors": {
+        "primary": "#0033A0",
+        "secondary": "#D64309"
+      },
+      "conference": "Pac-12",
+      "displayName": "Boise State Broncos",
+      "division": null,
+      "id": "college-bsu",
+      "location": "Boise State",
+      "logoUrl": null,
+      "name": "Broncos"
+    },
+    {
+      "abbreviation": "MEM",
+      "colors": {
+        "primary": "#003087",
+        "secondary": "#898D8D"
+      },
+      "conference": "American",
+      "displayName": "Memphis Tigers",
+      "division": null,
+      "id": "college-mem",
+      "location": "Memphis",
+      "logoUrl": null,
+      "name": "Tigers"
+    },
+    {
+      "abbreviation": "TUL",
+      "colors": {
+        "primary": "#006747",
+        "secondary": "#418FDE"
+      },
+      "conference": "American",
+      "displayName": "Tulane Green Wave",
+      "division": null,
+      "id": "college-tul",
+      "location": "Tulane",
+      "logoUrl": null,
+      "name": "Green Wave"
+    },
+    {
+      "abbreviation": "NAVY",
+      "colors": {
+        "primary": "#00205B",
+        "secondary": "#C5B783"
+      },
+      "conference": "American",
+      "displayName": "Navy Midshipmen",
+      "division": null,
+      "id": "college-navy",
+      "location": "Navy",
+      "logoUrl": null,
+      "name": "Midshipmen"
+    },
+    {
+      "abbreviation": "JMU",
+      "colors": {
+        "primary": "#450084",
+        "secondary": "#CBB677"
+      },
+      "conference": "Sun Belt",
+      "displayName": "James Madison Dukes",
+      "division": null,
+      "id": "college-jmu",
+      "location": "James Madison",
+      "logoUrl": null,
+      "name": "Dukes"
+    },
+    {
+      "abbreviation": "UNLV",
+      "colors": {
+        "primary": "#CF0A2C",
+        "secondary": "#666666"
+      },
+      "conference": "Mountain West",
+      "displayName": "UNLV Rebels",
+      "division": null,
+      "id": "college-unlv",
+      "location": "UNLV",
+      "logoUrl": null,
+      "name": "Rebels"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "generatedAt": "2026-11-28T11:01:06Z",
+  "schemaVersion": 1,
+  "sports": {
+    "college": {
+      "checkedAt": "2026-10-17T20:31:07Z",
+      "file": "college.json",
+      "generatedAt": "2026-10-17T16:00:00Z",
+      "isSample": true,
+      "provider": {
+        "lastAttemptAt": "2026-10-17T20:31:07Z",
+        "lastSuccessAt": "2026-10-17T20:31:07Z",
+        "message": "Sample data for development and layout testing — not live results",
+        "provider": "sample",
+        "state": "ok"
+      },
+      "staleAfterMinutes": 180,
+      "version": "733f3b7f4b03c651"
+    },
+    "nba": {
+      "checkedAt": "2026-11-28T11:01:06Z",
+      "file": "nba.json",
+      "generatedAt": "2026-11-28T11:01:06Z",
+      "isSample": false,
+      "plan": {
+        "due": [
+          {
+            "at": "2026-11-28T23:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T00:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T01:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T02:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T03:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T04:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T05:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-11-29T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-11-29T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-11-29T21:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-11-30T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-11-30T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-11-30T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-11-30T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-01T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-01T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-01T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-01T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-02T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-02T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-02T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-02T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-03T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-03T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-03T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-03T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-04T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-04T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-04T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-04T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-05T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-05T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-05T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-05T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-06T11:00:00Z",
+            "slot": "morning"
+          }
+        ]
+      },
+      "provider": {
+        "lastAttemptAt": "2026-11-28T11:01:06Z",
+        "lastSuccessAt": "2026-11-28T11:01:06Z",
+        "message": "Standings calculated from 281 final scores (unofficial, no tiebreakers)",
+        "provider": "balldontlie-nba",
+        "state": "ok"
+      },
+      "staleAfterMinutes": 1679,
+      "version": "c202972c434174a9"
+    },
+    "nfl": {
+      "checkedAt": "2026-11-28T11:01:06Z",
+      "file": "nfl.json",
+      "generatedAt": "2026-11-28T11:01:06Z",
+      "isSample": false,
+      "plan": {
+        "due": [
+          {
+            "at": "2026-11-29T18:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T19:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T20:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T21:05:00Z",
+            "slot": "hourly"
+          },
+          {
+            "at": "2026-11-29T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-11-30T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-11-30T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-11-30T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-11-30T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-01T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-01T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-01T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-01T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-02T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-02T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-02T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-02T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-03T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-03T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-03T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-03T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-04T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-04T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-04T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-04T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-05T11:00:00Z",
+            "slot": "morning"
+          },
+          {
+            "at": "2026-12-05T12:30:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-05T14:00:00Z",
+            "slot": "retry"
+          },
+          {
+            "at": "2026-12-05T22:00:00Z",
+            "slot": "pregame"
+          },
+          {
+            "at": "2026-12-06T11:00:00Z",
+            "slot": "morning"
+          }
+        ]
+      },
+      "provider": {
+        "lastAttemptAt": "2026-11-28T11:01:06Z",
+        "lastSuccessAt": "2026-11-28T11:01:06Z",
+        "message": "Schedule, finals and standings: nflverse (CC BY 4.0); live scores: BALLDONTLIE",
+        "provider": "nflverse-live",
+        "state": "ok"
+      },
+      "staleAfterMinutes": 3119,
+      "version": "a557b42d84f67341"
+    },
+    "nhl": {
+      "checkedAt": "2026-10-17T20:31:07Z",
+      "file": "nhl.json",
+      "generatedAt": "2026-10-17T16:00:00Z",
+      "isSample": true,
+      "provider": {
+        "lastAttemptAt": "2026-10-17T20:31:07Z",
+        "lastSuccessAt": "2026-10-17T20:31:07Z",
+        "message": "Sample data for development and layout testing — not live results",
+        "provider": "sample",
+        "state": "ok"
+      },
+      "staleAfterMinutes": 180,
+      "version": "a2ae751333a5cc8a"
+    }
+  },
+  "timezone": "America/New_York"
+}
